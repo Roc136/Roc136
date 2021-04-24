@@ -21,6 +21,77 @@
 
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 32 Contributions in the Year 2021
+ > 
+> 📦 296.0 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+🌆 Daytime    69 commits     ███████░░░░░░░░░░░░░░░░░░   31.36% 
+🌃 Evening    98 commits     ███████████░░░░░░░░░░░░░░   44.55% 
+🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Wednesday    44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
+Friday       61 commits     ███████░░░░░░░░░░░░░░░░░░   27.73% 
+Saturday     36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ██████████████░░░░░░░░░░░   58.33% 
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
