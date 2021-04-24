@@ -21,4 +21,3 @@ jobs:
           LOCALE: "en"
           COMMIT_BY_ME: "True"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_LOC_CHART: "False"
