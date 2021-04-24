@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 <table>
-<tr><td width="25%">🌞 Morning</td><td width="25%">31 commits</td><td width="50%"><a style="color:black">███</a><a style="color:grey">██████████████████████</a>   14.09%</td></tr> 
-<tr><td width="25%">🌆 Daytime</td><td width="25%">69 commits</td><td width="50%"><a style="color:black">███████</a><a style="color:grey">██████████████████</a>   31.36%</td></tr> 
-<tr><td width="25%">🌃 Evening</td><td width="25%">98 commits</td><td width="50%"><a style="color:black">███████████</a><a style="color:grey">██████████████</a>   44.55%</td></tr> 
-<tr><td width="25%">🌙 Night</td><td width="25%">22 commits</td><td width="50%"><a style="color:black">██</a><a style="color:grey">███████████████████████</a>   10.0%</td></tr>
+<tr><td width="25%">🌞 Morning</td><td width="25%">31 commits</td><td><font color="black">██</font><font color="grey">██████████████████</font> 14.09%</td></tr> 
+<tr><td width="25%">🌆 Daytime</td><td width="25%">69 commits</td><td><font color="black">██████</font><font color="grey">██████████████</font> 31.36%</td></tr> 
+<tr><td width="25%">🌃 Evening</td><td width="25%">98 commits</td><td><font color="black">█████████</font><font color="grey">███████████</font> 44.55%</td></tr> 
+<tr><td width="25%">🌙 Night</td><td width="25%">22 commits</td><td><font color="black">██</font><font color="grey">██████████████████</font> 10.0%</td></tr>
 
 </table>
 📅 **I'm Most Productive on Friday** 
 
 <table>
-<tr><td width="25%">Monday</td><td width="25%">17 commits</td><td width="50%"><a style="color:black">██</a><a style="color:grey">███████████████████████</a>   7.73%</td></tr> 
-<tr><td width="25%">Tuesday</td><td width="25%">36 commits</td><td width="50%"><a style="color:black">████</a><a style="color:grey">█████████████████████</a>   16.36%</td></tr> 
-<tr><td width="25%">Wednesday</td><td width="25%">44 commits</td><td width="50%"><a style="color:black">█████</a><a style="color:grey">████████████████████</a>   20.0%</td></tr> 
-<tr><td width="25%">Thursday</td><td width="25%">14 commits</td><td width="50%"><a style="color:black">█</a><a style="color:grey">████████████████████████</a>   6.36%</td></tr> 
-<tr><td width="25%">Friday</td><td width="25%">61 commits</td><td width="50%"><a style="color:black">███████</a><a style="color:grey">██████████████████</a>   27.73%</td></tr> 
-<tr><td width="25%">Saturday</td><td width="25%">36 commits</td><td width="50%"><a style="color:black">████</a><a style="color:grey">█████████████████████</a>   16.36%</td></tr> 
-<tr><td width="25%">Sunday</td><td width="25%">12 commits</td><td width="50%"><a style="color:black">█</a><a style="color:grey">████████████████████████</a>   5.45%</td></tr>
+<tr><td width="25%">Monday</td><td width="25%">17 commits</td><td><font color="black">█</font><font color="grey">███████████████████</font> 7.73%</td></tr> 
+<tr><td width="25%">Tuesday</td><td width="25%">36 commits</td><td><font color="black">███</font><font color="grey">█████████████████</font> 16.36%</td></tr> 
+<tr><td width="25%">Wednesday</td><td width="25%">44 commits</td><td><font color="black">████</font><font color="grey">████████████████</font> 20.0%</td></tr> 
+<tr><td width="25%">Thursday</td><td width="25%">14 commits</td><td><font color="black">█</font><font color="grey">███████████████████</font> 6.36%</td></tr> 
+<tr><td width="25%">Friday</td><td width="25%">61 commits</td><td><font color="black">█████</font><font color="grey">███████████████</font> 27.73%</td></tr> 
+<tr><td width="25%">Saturday</td><td width="25%">36 commits</td><td><font color="black">███</font><font color="grey">█████████████████</font> 16.36%</td></tr> 
+<tr><td width="25%">Sunday</td><td width="25%">12 commits</td><td><font color="black">█</font><font color="grey">███████████████████</font> 5.45%</td></tr>
 
 </table>
 
@@ -79,10 +79,10 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 <table>
-<tr><td width="25%">Python</td><td width="25%">7 repos</td><td width="50%"><a style="color:black">██████████████</a><a style="color:grey">███████████</a>   58.33%</td></tr> 
-<tr><td width="25%">C++</td><td width="25%">3 repos</td><td width="50%"><a style="color:black">██████</a><a style="color:grey">███████████████████</a>   25.0%</td></tr> 
-<tr><td width="25%">HTML</td><td width="25%">1 repo</td><td width="50%"><a style="color:black">██</a><a style="color:grey">███████████████████████</a>   8.33%</td></tr> 
-<tr><td width="25%">JavaScript</td><td width="25%">1 repo</td><td width="50%"><a style="color:black">██</a><a style="color:grey">███████████████████████</a>   8.33%</td></tr>
+<tr><td width="25%">Python</td><td width="25%">7 repos</td><td><font color="black">███████████</font><font color="grey">█████████</font> 58.33%</td></tr> 
+<tr><td width="25%">C++</td><td width="25%">3 repos</td><td><font color="black">█████</font><font color="grey">███████████████</font> 25.0%</td></tr> 
+<tr><td width="25%">HTML</td><td width="25%">1 repo</td><td><font color="black">█</font><font color="grey">███████████████████</font> 8.33%</td></tr> 
+<tr><td width="25%">JavaScript</td><td width="25%">1 repo</td><td><font color="black">█</font><font color="grey">███████████████████</font> 8.33%</td></tr>
 
 </table>
 
