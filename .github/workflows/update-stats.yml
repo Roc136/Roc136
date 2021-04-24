@@ -10,6 +10,7 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
     steps:
       - uses: Roc136/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
