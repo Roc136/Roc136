@@ -39,30 +39,30 @@
  > 
 **I'm a Night 🦉** 
 
-<table>
-<tr><td width="25%">🌞 Morning</td><td width="25%">31 commits</td><td><font color="black">██</font><font color="grey">██████████████████</font> 14.09%</td></tr> 
-<tr><td width="25%">🌆 Daytime</td><td width="25%">69 commits</td><td><font color="black">██████</font><font color="grey">██████████████</font> 31.36%</td></tr> 
-<tr><td width="25%">🌃 Evening</td><td width="25%">98 commits</td><td><font color="black">█████████</font><font color="grey">███████████</font> 44.55%</td></tr> 
-<tr><td width="25%">🌙 Night</td><td width="25%">22 commits</td><td><font color="black">██</font><font color="grey">██████████████████</font> 10.0%</td></tr>
+```text
+🌞 Morning    31 commits     ███                      |   14.09% 
+🌆 Daytime    69 commits     ███████                  |   31.36% 
+🌃 Evening    98 commits     ███████████              |   44.55% 
+🌙 Night      22 commits     ██                       |   10.0%
 
-</table>
+```
 📅 **I'm Most Productive on Friday** 
 
-<table>
-<tr><td width="25%">Monday</td><td width="25%">17 commits</td><td><font color="black">█</font><font color="grey">███████████████████</font> 7.73%</td></tr> 
-<tr><td width="25%">Tuesday</td><td width="25%">36 commits</td><td><font color="black">███</font><font color="grey">█████████████████</font> 16.36%</td></tr> 
-<tr><td width="25%">Wednesday</td><td width="25%">44 commits</td><td><font color="black">████</font><font color="grey">████████████████</font> 20.0%</td></tr> 
-<tr><td width="25%">Thursday</td><td width="25%">14 commits</td><td><font color="black">█</font><font color="grey">███████████████████</font> 6.36%</td></tr> 
-<tr><td width="25%">Friday</td><td width="25%">61 commits</td><td><font color="black">█████</font><font color="grey">███████████████</font> 27.73%</td></tr> 
-<tr><td width="25%">Saturday</td><td width="25%">36 commits</td><td><font color="black">███</font><font color="grey">█████████████████</font> 16.36%</td></tr> 
-<tr><td width="25%">Sunday</td><td width="25%">12 commits</td><td><font color="black">█</font><font color="grey">███████████████████</font> 5.45%</td></tr>
+```text
+Monday       17 commits     ██                       |   7.73% 
+Tuesday      36 commits     ████                     |   16.36% 
+Wednesday    44 commits     █████                    |   20.0% 
+Thursday     14 commits     █                        |   6.36% 
+Friday       61 commits     ███████                  |   27.73% 
+Saturday     36 commits     ████                     |   16.36% 
+Sunday       12 commits     █                        |   5.45%
 
-</table>
+```
 
 
 📊 **This Week I Spent My Time On** 
 
-<table>
+```text
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
@@ -74,17 +74,17 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 
-</table>
+```
 
 **I Mostly Code in Python** 
 
-<table>
-<tr><td width="25%">Python</td><td width="25%">7 repos</td><td><font color="black">███████████</font><font color="grey">█████████</font> 58.33%</td></tr> 
-<tr><td width="25%">C++</td><td width="25%">3 repos</td><td><font color="black">█████</font><font color="grey">███████████████</font> 25.0%</td></tr> 
-<tr><td width="25%">HTML</td><td width="25%">1 repo</td><td><font color="black">█</font><font color="grey">███████████████████</font> 8.33%</td></tr> 
-<tr><td width="25%">JavaScript</td><td width="25%">1 repo</td><td><font color="black">█</font><font color="grey">███████████████████</font> 8.33%</td></tr>
+```text
+Python                   7 repos             ██████████████           |   58.33% 
+C++                      3 repos             ██████                   |   25.0% 
+HTML                     1 repo              ██                       |   8.33% 
+JavaScript               1 repo              ██                       |   8.33%
 
-</table>
+```
 
 
 **Timeline**
