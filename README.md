@@ -33,9 +33,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
