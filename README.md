@@ -66,20 +66,20 @@ Sunday       12 commits     █                        |   5.41%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 9 mins        ████████████             |   48.21% 
-C++                      3 hrs 5 mins        █████████                |   35.87% 
-Python                   37 mins             █                        |   7.19% 
-Markdown                 29 mins             █                        |   5.62% 
-YAML                     13 mins                                      |   2.67%
+C++                      9 hrs 11 mins       ███████████████          |   60.06% 
+Other                    4 hrs 44 mins       ███████                  |   30.96% 
+Python                   37 mins             █                        |   4.05% 
+Markdown                 29 mins                                      |   3.17% 
+YAML                     13 mins                                      |   1.51%
 
 🔥 Editors: 
-Browser                  4 hrs 9 mins        ████████████             |   48.14% 
-VS Code                  2 hrs 37 mins       ███████                  |   30.4% 
-Visual Studio            1 hr 51 mins        █████                    |   21.46%
+Visual Studio            8 hrs 31 mins       ██████████████           |   55.7% 
+Browser                  4 hrs 9 mins        ██████                   |   27.15% 
+VS Code                  2 hrs 37 mins       ████                     |   17.15%
 
 💻 Operating System: 
-Windows                  8 hrs 29 mins       ████████████████████████ |   98.41% 
-Linux                    8 mins                                       |   1.59%
+Windows                  15 hrs 9 mins       ████████████████████████ |   99.1% 
+Linux                    8 mins                                       |   0.9%
 
 ```
 
