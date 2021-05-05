@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     ███                      |   13.96% 
-🌆 Daytime    69 commits     ███████                  |   31.08% 
-🌃 Evening    98 commits     ███████████              |   44.14% 
-🌙 Night      24 commits     ██                       |   10.81%
+🌞 Morning    31 commits     ███                      |   13.6% 
+🌆 Daytime    69 commits     ███████                  |   30.26% 
+🌃 Evening    103 commits    ███████████              |   45.18% 
+🌙 Night      25 commits     ██                       |   10.96%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       17 commits     ██                       |   7.66% 
-Tuesday      36 commits     ████                     |   16.22% 
-Wednesday    44 commits     █████                    |   19.82% 
-Thursday     14 commits     █                        |   6.31% 
-Friday       61 commits     ██████                   |   27.48% 
-Saturday     38 commits     ████                     |   17.12% 
-Sunday       12 commits     █                        |   5.41%
+Monday       17 commits     █                        |   7.46% 
+Tuesday      37 commits     ████                     |   16.23% 
+Wednesday    48 commits     █████                    |   21.05% 
+Thursday     15 commits     █                        |   6.58% 
+Friday       61 commits     ██████                   |   26.75% 
+Saturday     38 commits     ████                     |   16.67% 
+Sunday       12 commits     █                        |   5.26%
 
 ```
 
@@ -66,20 +66,20 @@ Sunday       12 commits     █                        |   5.41%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 3 mins        ████████████████         |   63.7% 
-C                        3 hrs 37 mins       ███████                  |   28.69% 
-Other                    34 mins             █                        |   4.58% 
-Makefile                 6 mins                                       |   0.8% 
-GAS                      6 mins                                       |   0.79%
+Python                   8 hrs 32 mins       ██████████               |   40.4% 
+C++                      8 hrs 3 mins        █████████                |   38.12% 
+C                        3 hrs 37 mins       ████                     |   17.17% 
+Other                    34 mins                                      |   2.74% 
+Makefile                 6 mins                                       |   0.48%
 
 🔥 Editors: 
-Visual Studio            7 hrs 6 mins        ██████████████           |   56.19% 
-VS Code                  5 hrs 28 mins       ██████████               |   43.31% 
-Notepad++                3 mins                                       |   0.51%
+VS Code                  13 hrs 58 mins      ████████████████         |   66.08% 
+Visual Studio            7 hrs 6 mins        ████████                 |   33.62% 
+Notepad++                3 mins                                       |   0.3%
 
 💻 Operating System: 
-Windows                  8 hrs 44 mins       █████████████████        |   69.04% 
-Linux                    3 hrs 55 mins       ███████                  |   30.96%
+Linux                    12 hrs 15 mins      ██████████████           |   57.92% 
+Windows                  8 hrs 54 mins       ██████████               |   42.08%
 
 ```
 
