@@ -21,13 +21,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13097%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 34 Contributions in the Year 2021
+> 🏆 35 Contributions in the Year 2021
  > 
 > 📦 296.0 kB Used in Github's Storage 
  > 
@@ -66,20 +66,20 @@ Sunday       12 commits     █                        |   5.26%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 32 mins       ██████████               |   40.4% 
-C++                      8 hrs 3 mins        █████████                |   38.12% 
-C                        3 hrs 37 mins       ████                     |   17.17% 
-Other                    34 mins                                      |   2.74% 
-Makefile                 6 mins                                       |   0.48%
+Python                   12 hrs 17 mins      ███████████              |   45.99% 
+C++                      9 hrs 9 mins        ████████                 |   34.27% 
+C                        3 hrs 37 mins       ███                      |   13.59% 
+Markdown                 36 mins                                      |   2.25% 
+Other                    34 mins                                      |   2.17%
 
 🔥 Editors: 
-VS Code                  13 hrs 58 mins      ████████████████         |   66.08% 
-Visual Studio            7 hrs 6 mins        ████████                 |   33.62% 
-Notepad++                3 mins                                       |   0.3%
+VS Code                  19 hrs 48 mins      ██████████████████       |   74.15% 
+Visual Studio            6 hrs 50 mins       ██████                   |   25.61% 
+Notepad++                3 mins                                       |   0.24%
 
 💻 Operating System: 
-Linux                    12 hrs 15 mins      ██████████████           |   57.92% 
-Windows                  8 hrs 54 mins       ██████████               |   42.08%
+Linux                    14 hrs 40 mins      █████████████            |   54.91% 
+Windows                  12 hrs 2 mins       ███████████              |   45.09%
 
 ```
 
