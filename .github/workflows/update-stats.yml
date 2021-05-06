@@ -20,3 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "True"
+          INGORED_REPOS: "Blog"
