@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13097%20lines%20of%20code-blue)
 
@@ -66,20 +66,20 @@ Sunday       12 commits     █                        |   5.26%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 17 mins      ███████████████          |   61.29% 
-C                        3 hrs 37 mins       ████                     |   18.11% 
-C++                      3 hrs 3 mins        ███                      |   15.29% 
-Markdown                 36 mins                                      |   3.0% 
-Makefile                 6 mins                                       |   0.5%
+Python                   12 hrs 17 mins      ██████████               |   43.33% 
+C++                      10 hrs 46 mins      █████████                |   37.98% 
+C                        3 hrs 38 mins       ███                      |   12.87% 
+INI                      38 mins                                      |   2.28% 
+Markdown                 36 mins                                      |   2.12%
 
 🔥 Editors: 
-VS Code                  19 hrs 48 mins      ████████████████████████ |   98.82% 
-Visual Studio            10 mins                                      |   0.86% 
-Notepad++                3 mins                                       |   0.32%
+VS Code                  19 hrs 50 mins      █████████████████        |   69.93% 
+Visual Studio            7 hrs 52 mins       ███████                  |   27.77% 
+Notepad++                39 mins                                      |   2.3%
 
 💻 Operating System: 
-Linux                    14 hrs 40 mins      ██████████████████       |   73.18% 
-Windows                  5 hrs 22 mins       ██████                   |   26.82%
+Linux                    14 hrs 40 mins      █████████████            |   51.74% 
+Windows                  13 hrs 41 mins      ████████████             |   48.26%
 
 ```
 
