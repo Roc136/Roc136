@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13097%20lines%20of%20code-blue)
 
@@ -66,20 +66,20 @@ Sunday       12 commits     █                        |   5.26%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 17 mins      ██████████               |   43.33% 
-C++                      10 hrs 46 mins      █████████                |   37.98% 
-C                        3 hrs 38 mins       ███                      |   12.87% 
-INI                      38 mins                                      |   2.28% 
-Markdown                 36 mins                                      |   2.12%
+C++                      16 hrs 58 mins      ████████████             |   49.23% 
+Python                   12 hrs 17 mins      █████████                |   35.62% 
+C                        3 hrs 38 mins       ██                       |   10.58% 
+Markdown                 36 mins                                      |   1.74% 
+INI                      35 mins                                      |   1.7%
 
 🔥 Editors: 
-VS Code                  19 hrs 50 mins      █████████████████        |   69.93% 
-Visual Studio            7 hrs 52 mins       ███████                  |   27.77% 
-Notepad++                39 mins                                      |   2.3%
+VS Code                  18 hrs 16 mins      █████████████            |   52.98% 
+Visual Studio            15 hrs 37 mins      ███████████              |   45.3% 
+Notepad++                35 mins                                      |   1.72%
 
 💻 Operating System: 
-Linux                    14 hrs 40 mins      █████████████            |   51.74% 
-Windows                  13 hrs 41 mins      ████████████             |   48.26%
+Windows                  19 hrs 49 mins      ██████████████           |   57.47% 
+Linux                    14 hrs 40 mins      ██████████               |   42.53%
 
 ```
 
