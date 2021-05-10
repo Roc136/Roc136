@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13097%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15041%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     ███                      |   13.6% 
-🌆 Daytime    69 commits     ███████                  |   30.26% 
-🌃 Evening    103 commits    ███████████              |   45.18% 
-🌙 Night      25 commits     ██                       |   10.96%
+🌞 Morning    31 commits     ███                      |   13.48% 
+🌆 Daytime    70 commits     ███████                  |   30.43% 
+🌃 Evening    103 commits    ███████████              |   44.78% 
+🌙 Night      26 commits     ██                       |   11.3%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       17 commits     █                        |   7.46% 
-Tuesday      37 commits     ████                     |   16.23% 
-Wednesday    48 commits     █████                    |   21.05% 
-Thursday     15 commits     █                        |   6.58% 
-Friday       61 commits     ██████                   |   26.75% 
-Saturday     38 commits     ████                     |   16.67% 
-Sunday       12 commits     █                        |   5.26%
+Monday       18 commits     ██                       |   7.83% 
+Tuesday      38 commits     ████                     |   16.52% 
+Wednesday    48 commits     █████                    |   20.87% 
+Thursday     15 commits     █                        |   6.52% 
+Friday       61 commits     ██████                   |   26.52% 
+Saturday     38 commits     ████                     |   16.52% 
+Sunday       12 commits     █                        |   5.22%
 
 ```
 
@@ -66,20 +66,20 @@ Sunday       12 commits     █                        |   5.26%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      16 hrs 58 mins      ████████████             |   49.23% 
-Python                   12 hrs 17 mins      █████████                |   35.62% 
-C                        3 hrs 38 mins       ██                       |   10.58% 
-Markdown                 36 mins                                      |   1.74% 
-INI                      35 mins                                      |   1.7%
+C++                      20 hrs 57 mins      █████████████            |   54.37% 
+Python                   12 hrs 17 mins      ████████                 |   31.88% 
+C                        3 hrs 38 mins       ██                       |   9.47% 
+Markdown                 36 mins                                      |   1.56% 
+INI                      35 mins                                      |   1.52%
 
 🔥 Editors: 
-VS Code                  18 hrs 16 mins      █████████████            |   52.98% 
-Visual Studio            15 hrs 37 mins      ███████████              |   45.3% 
-Notepad++                35 mins                                      |   1.72%
+Visual Studio            19 hrs 17 mins      ████████████             |   50.03% 
+VS Code                  18 hrs 40 mins      ████████████             |   48.43% 
+Notepad++                35 mins                                      |   1.54%
 
 💻 Operating System: 
-Windows                  19 hrs 49 mins      ██████████████           |   57.47% 
-Linux                    14 hrs 40 mins      ██████████               |   42.53%
+Windows                  23 hrs 52 mins      ███████████████          |   61.94% 
+Linux                    14 hrs 40 mins      █████████                |   38.06%
 
 ```
 
