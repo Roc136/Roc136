@@ -23,39 +23,39 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15041%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16613%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 35 Contributions in the Year 2021
+> 🏆 96 Contributions in the Year 2021
  > 
 > 📦 296.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     ███                      |   13.48% 
-🌆 Daytime    70 commits     ███████                  |   30.43% 
-🌃 Evening    103 commits    ███████████              |   44.78% 
-🌙 Night      26 commits     ██                       |   11.3%
+🌞 Morning    31 commits     ███                      |   13.6% 
+🌆 Daytime    71 commits     ███████                  |   31.14% 
+🌃 Evening    100 commits    ███████████              |   43.86% 
+🌙 Night      26 commits     ██                       |   11.4%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       18 commits     ██                       |   7.83% 
-Tuesday      38 commits     ████                     |   16.52% 
-Wednesday    48 commits     █████                    |   20.87% 
-Thursday     15 commits     █                        |   6.52% 
-Friday       61 commits     ██████                   |   26.52% 
-Saturday     38 commits     ████                     |   16.52% 
-Sunday       12 commits     █                        |   5.22%
+Monday       19 commits     ██                       |   8.33% 
+Tuesday      35 commits     ███                      |   15.35% 
+Wednesday    48 commits     █████                    |   21.05% 
+Thursday     15 commits     █                        |   6.58% 
+Friday       61 commits     ██████                   |   26.75% 
+Saturday     38 commits     ████                     |   16.67% 
+Sunday       12 commits     █                        |   5.26%
 
 ```
 
