@@ -20,4 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "True"
-          IGNORED_REPOS: "Blog"
+          IGNORED_REPOS: "Blog,icspa_2020"
