@@ -27,7 +27,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 110 Contributions in the Year 2021
+> 🏆 113 Contributions in the Year 2021
  > 
 > 📦 310.0 kB Used in Github's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     ███                      |   12.92% 
-🌆 Daytime    76 commits     ████████                 |   31.67% 
-🌃 Evening    104 commits    ██████████               |   43.33% 
-🌙 Night      29 commits     ███                      |   12.08%
+🌞 Morning    31 commits     ███                      |   12.81% 
+🌆 Daytime    76 commits     ███████                  |   31.4% 
+🌃 Evening    106 commits    ███████████              |   43.8% 
+🌙 Night      29 commits     ███                      |   11.98%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       20 commits     ██                       |   8.33% 
-Tuesday      37 commits     ███                      |   15.42% 
-Wednesday    50 commits     █████                    |   20.83% 
-Thursday     15 commits     █                        |   6.25% 
-Friday       64 commits     ██████                   |   26.67% 
-Saturday     39 commits     ████                     |   16.25% 
-Sunday       15 commits     █                        |   6.25%
+Monday       20 commits     ██                       |   8.26% 
+Tuesday      37 commits     ███                      |   15.29% 
+Wednesday    50 commits     █████                    |   20.66% 
+Thursday     17 commits     █                        |   7.02% 
+Friday       64 commits     ██████                   |   26.45% 
+Saturday     39 commits     ████                     |   16.12% 
+Sunday       15 commits     █                        |   6.2%
 
 ```
 
@@ -85,11 +85,11 @@ Windows                  2 hrs 58 mins       ████                     | 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ██████████████           |   57.14% 
-C++                      3 repos             █████                    |   21.43% 
-HTML                     1 repo              █                        |   7.14% 
-JavaScript               1 repo              █                        |   7.14% 
-C                        1 repo              █                        |   7.14%
+Python                   9 repos             ███████████████          |   60.0% 
+C++                      3 repos             █████                    |   20.0% 
+HTML                     1 repo              █                        |   6.67% 
+JavaScript               1 repo              █                        |   6.67% 
+C                        1 repo              █                        |   6.67%
 
 ```
 
