@@ -21,13 +21,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17538%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 113 Contributions in the Year 2021
+> 🏆 114 Contributions in the Year 2021
  > 
 > 📦 310.0 kB Used in Github's Storage 
  > 
@@ -66,19 +66,19 @@ Sunday       15 commits     █                        |   6.2%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 33 mins       ██████████               |   41.75% 
-Python                   9 hrs 2 mins        ██████████               |   39.52% 
-C                        3 hrs 4 mins        ███                      |   13.44% 
-JSON                     32 mins                                      |   2.35% 
-YAML                     15 mins                                      |   1.12%
+C++                      9 hrs 31 mins       ██████████               |   41.17% 
+Python                   9 hrs 13 mins       ██████████               |   39.82% 
+C                        3 hrs 5 mins        ███                      |   13.33% 
+JSON                     31 mins                                      |   2.3% 
+YAML                     15 mins                                      |   1.1%
 
 🔥 Editors: 
-VS Code                  22 hrs 11 mins      ████████████████████████ |   96.91% 
-Visual Studio            42 mins                                      |   3.09%
+VS Code                  21 hrs 30 mins      ███████████████████████  |   92.92% 
+Visual Studio            1 hr 38 mins        █                        |   7.08%
 
 💻 Operating System: 
-Linux                    16 hrs 26 mins      ██████████████████       |   71.84% 
-Windows                  6 hrs 26 mins       ███████                  |   28.16%
+Linux                    16 hrs 37 mins      ██████████████████       |   71.79% 
+Windows                  6 hrs 31 mins       ███████                  |   28.21%
 
 ```
 
