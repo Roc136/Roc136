@@ -27,7 +27,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 128 Contributions in the Year 2021
+> 🏆 129 Contributions in the Year 2021
  > 
 > 📦 311.0 kB Used in Github's Storage 
  > 
@@ -66,19 +66,19 @@ Sunday       22 commits     ██                       |   8.94%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 7 mins        ███████████              |   43.88% 
-C++                      5 hrs 14 mins       ███████                  |   28.27% 
-Markdown                 2 hrs 53 mins       ████                     |   15.61% 
-YAML                     35 mins                                      |   3.24% 
-CSV                      33 mins                                      |   3.0%
+Python                   8 hrs 49 mins       ███████████              |   45.27% 
+C++                      5 hrs 14 mins       ██████                   |   26.85% 
+Markdown                 2 hrs 54 mins       ███                      |   14.91% 
+YAML                     35 mins                                      |   3.07% 
+CSV                      33 mins                                      |   2.85%
 
 🔥 Editors: 
-VS Code                  16 hrs 54 mins      ██████████████████████   |   91.29% 
-Visual Studio            1 hr 36 mins        ██                       |   8.71%
+VS Code                  17 hrs 53 mins      ███████████████████████  |   91.73% 
+Visual Studio            1 hr 36 mins        ██                       |   8.27%
 
 💻 Operating System: 
-Linux                    12 hrs 8 mins       ████████████████         |   65.54% 
-Windows                  6 hrs 22 mins       ████████                 |   34.46%
+Linux                    12 hrs 57 mins      ████████████████         |   66.46% 
+Windows                  6 hrs 32 mins       ████████                 |   33.54%
 
 ```
 
