@@ -27,9 +27,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 132 Contributions in the Year 2021
+> 🏆 133 Contributions in the Year 2021
  > 
-> 📦 311.0 kB Used in Github's Storage 
+> 📦 311.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     ███                      |   12.5% 
-🌆 Daytime    80 commits     ████████                 |   32.26% 
-🌃 Evening    108 commits    ███████████              |   43.55% 
-🌙 Night      29 commits     ███                      |   11.69%
+🌞 Morning    31 commits     ███                      |   12.45% 
+🌆 Daytime    81 commits     ████████                 |   32.53% 
+🌃 Evening    108 commits    ██████████               |   43.37% 
+🌙 Night      29 commits     ███                      |   11.65%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       22 commits     ██                       |   8.87% 
-Tuesday      37 commits     ███                      |   14.92% 
-Wednesday    49 commits     █████                    |   19.76% 
-Thursday     16 commits     █                        |   6.45% 
-Friday       61 commits     ██████                   |   24.6% 
-Saturday     41 commits     ████                     |   16.53% 
-Sunday       22 commits     ██                       |   8.87%
+Monday       22 commits     ██                       |   8.84% 
+Tuesday      37 commits     ███                      |   14.86% 
+Wednesday    50 commits     █████                    |   20.08% 
+Thursday     16 commits     █                        |   6.43% 
+Friday       61 commits     ██████                   |   24.5% 
+Saturday     41 commits     ████                     |   16.47% 
+Sunday       22 commits     ██                       |   8.84%
 
 ```
 
@@ -66,19 +66,19 @@ Sunday       22 commits     ██                       |   8.87%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        9 hrs 1 min         ████████                 |   34.14% 
-Python                   7 hrs 42 mins       ███████                  |   29.15% 
-C++                      4 hrs 26 mins       ████                     |   16.79% 
-Markdown                 2 hrs 54 mins       ██                       |   11.0% 
-YAML                     35 mins                                      |   2.27%
+C                        9 hrs 1 min         ██████████               |   40.35% 
+Python                   6 hrs 48 mins       ███████                  |   30.44% 
+Markdown                 2 hrs 53 mins       ███                      |   12.91% 
+C++                      2 hrs               ██                       |   8.99% 
+CSV                      33 mins                                      |   2.49%
 
 🔥 Editors: 
-VS Code                  25 hrs 29 mins      ████████████████████████ |   96.47% 
-Visual Studio            55 mins             █                        |   3.53%
+VS Code                  21 hrs 25 mins      ████████████████████████ |   95.83% 
+Visual Studio            55 mins             █                        |   4.17%
 
 💻 Operating System: 
-Linux                    20 hrs 33 mins      ███████████████████      |   77.8% 
-Windows                  5 hrs 52 mins       █████                    |   22.2%
+Linux                    20 hrs 3 mins       ██████████████████████   |   89.72% 
+Windows                  2 hrs 17 mins       ██                       |   10.28%
 
 ```
 
