@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19080%20lines%20of%20code-blue)
 
@@ -66,30 +66,30 @@ Sunday       28 commits     ██                       |   10.73%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 22 mins      █████████████            |   54.63% 
-C++                      7 hrs 57 mins       ██████████               |   41.93% 
-Text                     22 mins                                      |   1.94% 
-HTML                     9 mins                                       |   0.8% 
-CSV                      2 mins                                       |   0.23%
+Python                   11 hrs 49 mins      ██████████████           |   57.89% 
+C++                      7 hrs 57 mins       █████████                |   38.93% 
+Text                     22 mins                                      |   1.8% 
+HTML                     9 mins                                       |   0.75% 
+CSV                      2 mins                                       |   0.21%
 
 🔥 Editors: 
-VS Code                  16 hrs 7 mins       █████████████████████    |   84.99% 
-Visual Studio            2 hrs 50 mins       ███                      |   15.01%
+VS Code                  17 hrs 35 mins      █████████████████████    |   86.06% 
+Visual Studio            2 hrs 50 mins       ███                      |   13.94%
 
 💻 Operating System: 
-Linux                    10 hrs 32 mins      ██████████████           |   55.52% 
-Windows                  8 hrs 26 mins       ███████████              |   44.48%
+Linux                    12 hrs              ██████████████           |   58.73% 
+Windows                  8 hrs 25 mins       ██████████               |   41.27%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████████████          |   62.5% 
-C++                      3 repos             ████                     |   18.75% 
-HTML                     1 repo              █                        |   6.25% 
-JavaScript               1 repo              █                        |   6.25% 
-C                        1 repo              █                        |   6.25%
+Python                   11 repos            ████████████████         |   64.71% 
+C++                      3 repos             ████                     |   17.65% 
+HTML                     1 repo              █                        |   5.88% 
+JavaScript               1 repo              █                        |   5.88% 
+C                        1 repo              █                        |   5.88%
 
 ```
 
