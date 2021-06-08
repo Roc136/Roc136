@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19102%20lines%20of%20code-blue)
 
@@ -66,19 +66,19 @@ Sunday       28 commits     ██                       |   10.57%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 23 mins       ██████████████           |   58.23% 
-C++                      6 hrs 31 mins       ██████████               |   40.45% 
-C                        6 mins                                       |   0.69% 
-Other                    2 mins                                       |   0.25% 
-Git Config               1 min                                        |   0.21%
+C++                      13 hrs 40 mins      ███████████████████      |   76.52% 
+Python                   3 hrs 59 mins       █████                    |   22.34% 
+C                        7 mins                                       |   0.7% 
+Git Config               1 min                                        |   0.18% 
+Other                    0 secs                                       |   0.09%
 
 🔥 Editors: 
-VS Code                  10 hrs 36 mins      ████████████████         |   65.81% 
-Visual Studio            5 hrs 30 mins       ████████                 |   34.19%
+Visual Studio            12 hrs 40 mins      █████████████████        |   70.97% 
+VS Code                  5 hrs 11 mins       ███████                  |   29.03%
 
 💻 Operating System: 
-Linux                    9 hrs 23 mins       ██████████████           |   58.28% 
-Windows                  6 hrs 43 mins       ██████████               |   41.72%
+Windows                  13 hrs 51 mins      ███████████████████      |   77.62% 
+Linux                    3 hrs 59 mins       █████                    |   22.38%
 
 ```
 
