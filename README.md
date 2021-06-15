@@ -29,7 +29,7 @@
 
 > 🏆 154 Contributions in the Year 2021
  > 
-> 📦 311.7 kB Used in Github's Storage 
+> 📦 345.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,19 +66,19 @@ Sunday       28 commits     ██                       |   10.45%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      12 hrs 8 mins       ████████████████████     |   82.61% 
-C                        1 hr 44 mins        ███                      |   11.85% 
-Other                    28 mins                                      |   3.23% 
-Markdown                 12 mins                                      |   1.47% 
-JSON                     5 mins                                       |   0.59%
+C++                      4 hrs 59 mins       ████████████████         |   66.28% 
+C                        1 hr 43 mins        █████                    |   22.94% 
+Other                    28 mins             █                        |   6.27% 
+Markdown                 12 mins                                      |   2.88% 
+JSON                     5 mins                                       |   1.15%
 
 🔥 Editors: 
-Visual Studio            10 hrs 3 mins       █████████████████        |   68.46% 
-VS Code                  4 hrs 38 mins       ████████                 |   31.54%
+VS Code                  4 hrs 38 mins       ███████████████          |   61.55% 
+Visual Studio            2 hrs 53 mins       █████████                |   38.45%
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      ██████████████████       |   72.97% 
-Linux                    3 hrs 58 mins       ██████                   |   27.03%
+Linux                    3 hrs 58 mins       █████████████            |   52.75% 
+Windows                  3 hrs 33 mins       ███████████              |   47.25%
 
 ```
 
