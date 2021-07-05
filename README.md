@@ -66,13 +66,13 @@ Sunday       28 commits     ██                       |   10.37%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 mins              █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 ```
 
