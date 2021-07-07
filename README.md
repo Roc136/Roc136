@@ -66,13 +66,14 @@ Sunday       28 commits     ██                       |   10.37%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 40 mins       ██████████████████████   |   89.97% 
+Other                    17 mins             ██                       |   10.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 58 mins       █████████████████████████|   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 58 mins       █████████████████████████|   100.0%
 
 ```
 
