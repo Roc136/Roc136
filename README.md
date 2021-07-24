@@ -40,22 +40,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     ███                      |   13.46% 
-🌆 Daytime    120 commits    █████████                |   36.7% 
-🌃 Evening    125 commits    █████████                |   38.23% 
-🌙 Night      38 commits     ███                      |   11.62%
+🌞 Morning    44 commits     ███                      |   13.58% 
+🌆 Daytime    118 commits    █████████                |   36.42% 
+🌃 Evening    124 commits    █████████                |   38.27% 
+🌙 Night      38 commits     ███                      |   11.73%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       41 commits     ███                      |   12.54% 
-Tuesday      48 commits     ███                      |   14.68% 
-Wednesday    58 commits     ████                     |   17.74% 
-Thursday     23 commits     █                        |   7.03% 
-Friday       72 commits     █████                    |   22.02% 
-Saturday     50 commits     ███                      |   15.29% 
-Sunday       35 commits     ██                       |   10.7%
+Monday       41 commits     ███                      |   12.65% 
+Tuesday      48 commits     ███                      |   14.81% 
+Wednesday    58 commits     ████                     |   17.9% 
+Thursday     23 commits     █                        |   7.1% 
+Friday       69 commits     █████                    |   21.3% 
+Saturday     50 commits     ███                      |   15.43% 
+Sunday       35 commits     ██                       |   10.8%
 
 ```
 
@@ -66,15 +66,15 @@ Sunday       35 commits     ██                       |   10.7%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 21 mins      ████████████████████████ |   99.08% 
-Other                    7 mins                                       |   0.76% 
-Git Config               1 min                                        |   0.17%
+Python                   12 hrs 5 mins       ████████████████████████ |   98.86% 
+Other                    7 mins                                       |   0.96% 
+Git Config               1 min                                        |   0.18%
 
 🔥 Editors: 
-VS Code                  15 hrs 30 mins      █████████████████████████|   100.0%
+VS Code                  12 hrs 15 mins      █████████████████████████|   100.0%
 
 💻 Operating System: 
-Linux                    15 hrs 30 mins      █████████████████████████|   100.0%
+Linux                    12 hrs 15 mins      █████████████████████████|   100.0%
 
 ```
 
