@@ -27,15 +27,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 233 Contributions in the Year 2021
+> 🏆 235 Contributions in the Year 2021
  > 
 > 📦 346.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -66,16 +66,18 @@ Sunday       40 commits     ███                      |   12.16%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       █████████████████████████|   99.71% 
-JSON                     0 secs                                       |   0.29%
+Python                   5 hrs 6 mins        █████████████████████    |   84.68% 
+Markdown                 32 mins             ██                       |   8.94% 
+YAML                     11 mins                                      |   3.28% 
+JSON                     9 mins                                       |   2.51% 
+Git Config               1 min                                        |   0.33%
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████|   99.71% 
-Notepad++                0 secs                                       |   0.29%
+VS Code                  6 hrs 2 mins        █████████████████████████|   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████    |   86.73% 
-Linux                    27 mins             ███                      |   13.27%
+Linux                    3 hrs 28 mins       ██████████████           |   57.55% 
+Windows                  2 hrs 33 mins       ██████████               |   42.45%
 
 ```
 
