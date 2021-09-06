@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    45 commits     ███                      |   13.6% 
-🌆 Daytime    112 commits    ████████                 |   33.84% 
-🌃 Evening    123 commits    █████████                |   37.16% 
-🌙 Night      51 commits     ███                      |   15.41%
+🌞 Morning    45 commits     ███                      |   13.8% 
+🌆 Daytime    112 commits    ████████                 |   34.36% 
+🌃 Evening    118 commits    █████████                |   36.2% 
+🌙 Night      51 commits     ████                     |   15.64%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ████                     |   16.62% 
-Tuesday      48 commits     ███                      |   14.5% 
-Wednesday    58 commits     ████                     |   17.52% 
-Thursday     23 commits     █                        |   6.95% 
-Friday       57 commits     ████                     |   17.22% 
-Saturday     50 commits     ███                      |   15.11% 
-Sunday       40 commits     ███                      |   12.08%
+Monday       55 commits     ████                     |   16.87% 
+Tuesday      48 commits     ███                      |   14.72% 
+Wednesday    58 commits     ████                     |   17.79% 
+Thursday     23 commits     █                        |   7.06% 
+Friday       57 commits     ████                     |   17.48% 
+Saturday     45 commits     ███                      |   13.8% 
+Sunday       40 commits     ███                      |   12.27%
 
 ```
 
@@ -66,17 +66,18 @@ Sunday       40 commits     ███                      |   12.08%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   24 mins             ████████                 |   33.9% 
-Java                     23 mins             ████████                 |   31.77% 
-JSON                     12 mins             ████                     |   17.04% 
-XML                      8 mins              ██                       |   11.09% 
-TeX                      2 mins              █                        |   3.87%
+TeX                      1 hr 52 mins        ████████████████         |   64.06% 
+JSON                     26 mins             ███                      |   15.13% 
+Java                     23 mins             ███                      |   13.21% 
+XML                      8 mins              █                        |   4.61% 
+INI                      2 mins                                       |   1.55%
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████|   100.0%
+VS Code                  2 hrs 52 mins       ████████████████████████ |   98.45% 
+Notepad++                2 mins                                       |   1.55%
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████|   100.0%
+Windows                  2 hrs 54 mins       █████████████████████████|   100.0%
 
 ```
 
