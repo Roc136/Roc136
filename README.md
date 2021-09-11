@@ -27,13 +27,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 244 Contributions in the Year 2021
+> 🏆 246 Contributions in the Year 2021
  > 
 > 📦 347.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
@@ -66,18 +66,18 @@ Sunday       40 commits     ███                      |   12.27%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      1 hr 49 mins        █████████████████████    |   86.12% 
-JSON                     14 mins             ██                       |   11.09% 
-INI                      2 mins                                       |   2.14% 
-PostScript               0 secs                                       |   0.24% 
-Other                    0 secs                                       |   0.23%
+Java                     2 hrs 2 mins        ████████████             |   48.72% 
+Other                    1 hr 21 mins        ████████                 |   32.47% 
+Markdown                 34 mins             ███                      |   13.57% 
+TeX                      8 mins                                       |   3.31% 
+INI                      2 mins                                       |   1.08%
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        ████████████████████████ |   97.86% 
-Notepad++                2 mins                                       |   2.14%
+VS Code                  4 hrs 8 mins        ████████████████████████ |   98.92% 
+Notepad++                2 mins                                       |   1.08%
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████|   100.0%
+Windows                  4 hrs 10 mins       █████████████████████████|   100.0%
 
 ```
 
