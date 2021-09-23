@@ -66,14 +66,13 @@ Sunday       43 commits     ███                      |   12.76%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     20 mins             █████████████████████████|   99.71% 
-Git Config               0 secs                                       |   0.29%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 ```
 
