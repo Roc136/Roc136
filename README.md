@@ -79,11 +79,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████          |   61.9% 
-C++                      3 repos             ███                      |   14.29% 
-Java                     2 repos             ██                       |   9.52% 
-HTML                     1 repo              █                        |   4.76% 
-JavaScript               1 repo              █                        |   4.76%
+Python                   13 repos            ██████████████           |   59.09% 
+C++                      3 repos             ███                      |   13.64% 
+Java                     3 repos             ███                      |   13.64% 
+HTML                     1 repo              █                        |   4.55% 
+JavaScript               1 repo              █                        |   4.55%
 
 ```
 
