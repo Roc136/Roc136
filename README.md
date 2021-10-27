@@ -27,7 +27,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 280 Contributions in the Year 2021
+> 🏆 281 Contributions in the Year 2021
  > 
 > 📦 347.8 kB Used in Github's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    46 commits     ███                      |   12.96% 
-🌆 Daytime    114 commits    ████████                 |   32.11% 
-🌃 Evening    139 commits    █████████                |   39.15% 
-🌙 Night      56 commits     ████                     |   15.77%
+🌞 Morning    46 commits     ███                      |   12.92% 
+🌆 Daytime    114 commits    ████████                 |   32.02% 
+🌃 Evening    140 commits    █████████                |   39.33% 
+🌙 Night      56 commits     ████                     |   15.73%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ███                      |   15.49% 
-Tuesday      48 commits     ███                      |   13.52% 
-Wednesday    71 commits     █████                    |   20.0% 
-Thursday     27 commits     ██                       |   7.61% 
-Friday       55 commits     ███                      |   15.49% 
-Saturday     53 commits     ███                      |   14.93% 
-Sunday       46 commits     ███                      |   12.96%
+Monday       55 commits     ███                      |   15.45% 
+Tuesday      48 commits     ███                      |   13.48% 
+Wednesday    72 commits     █████                    |   20.22% 
+Thursday     27 commits     ██                       |   7.58% 
+Friday       55 commits     ███                      |   15.45% 
+Saturday     53 commits     ███                      |   14.89% 
+Sunday       46 commits     ███                      |   12.92%
 
 ```
 
@@ -66,16 +66,16 @@ Sunday       46 commits     ███                      |   12.96%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 15 mins       ████████████████████████ |   95.9% 
-Python                   13 mins             █                        |   4.1% 
-Git Config               0 secs                                       |   0.0%
+Java                     14 hrs 12 mins      ████████████████████████ |   98.24% 
+Python                   13 mins                                      |   1.55% 
+Git Config               1 min                                        |   0.21%
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       █████████████████████████|   100.0%
+VS Code                  14 hrs 27 mins      █████████████████████████|   100.0%
 
 💻 Operating System: 
-Linux                    5 hrs 15 mins       ████████████████████████ |   95.78% 
-Windows                  13 mins             █                        |   4.22%
+Linux                    14 hrs 13 mins      ████████████████████████ |   98.4% 
+Windows                  13 mins                                      |   1.6%
 
 ```
 
