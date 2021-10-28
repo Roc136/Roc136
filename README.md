@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60232%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60361%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 281 Contributions in the Year 2021
+> 🏆 283 Contributions in the Year 2021
  > 
-> 📦 347.8 kB Used in Github's Storage 
+> 📦 348.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,8 +41,8 @@
 
 ```text
 🌞 Morning    46 commits     ███                      |   12.92% 
-🌆 Daytime    114 commits    ████████                 |   32.02% 
-🌃 Evening    140 commits    █████████                |   39.33% 
+🌆 Daytime    113 commits    ████████                 |   31.74% 
+🌃 Evening    141 commits    ██████████               |   39.61% 
 🌙 Night      56 commits     ████                     |   15.73%
 
 ```
@@ -52,9 +52,9 @@
 Monday       55 commits     ███                      |   15.45% 
 Tuesday      48 commits     ███                      |   13.48% 
 Wednesday    72 commits     █████                    |   20.22% 
-Thursday     27 commits     ██                       |   7.58% 
+Thursday     29 commits     ██                       |   8.15% 
 Friday       55 commits     ███                      |   15.45% 
-Saturday     53 commits     ███                      |   14.89% 
+Saturday     51 commits     ███                      |   14.33% 
 Sunday       46 commits     ███                      |   12.92%
 
 ```
@@ -66,16 +66,18 @@ Sunday       46 commits     ███                      |   12.92%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     14 hrs 12 mins      ████████████████████████ |   98.24% 
-Python                   13 mins                                      |   1.55% 
-Git Config               1 min                                        |   0.21%
+Java                     14 hrs 21 mins      ████████████████████████ |   97.0% 
+Markdown                 16 mins                                      |   1.87% 
+Python                   6 mins                                       |   0.7% 
+JSON                     1 min                                        |   0.22% 
+Git Config               1 min                                        |   0.2%
 
 🔥 Editors: 
-VS Code                  14 hrs 27 mins      █████████████████████████|   100.0%
+VS Code                  14 hrs 47 mins      █████████████████████████|   100.0%
 
 💻 Operating System: 
-Linux                    14 hrs 13 mins      ████████████████████████ |   98.4% 
-Windows                  13 mins                                      |   1.6%
+Linux                    14 hrs 39 mins      ████████████████████████ |   99.07% 
+Windows                  8 mins                                       |   0.93%
 
 ```
 
