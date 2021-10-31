@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60794%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60802%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 286 Contributions in the Year 2021
+> 🏆 288 Contributions in the Year 2021
  > 
 > 📦 348.3 kB Used in Github's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    47 commits     ███                      |   13.13% 
-🌆 Daytime    114 commits    ████████                 |   31.84% 
-🌃 Evening    141 commits    █████████                |   39.39% 
-🌙 Night      56 commits     ████                     |   15.64%
+🌞 Morning    47 commits     ███                      |   13.06% 
+🌆 Daytime    115 commits    ████████                 |   31.94% 
+🌃 Evening    142 commits    █████████                |   39.44% 
+🌙 Night      56 commits     ████                     |   15.56%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ███                      |   15.36% 
-Tuesday      48 commits     ███                      |   13.41% 
-Wednesday    72 commits     █████                    |   20.11% 
-Thursday     29 commits     ██                       |   8.1% 
-Friday       57 commits     ████                     |   15.92% 
-Saturday     51 commits     ███                      |   14.25% 
-Sunday       46 commits     ███                      |   12.85%
+Monday       55 commits     ███                      |   15.28% 
+Tuesday      48 commits     ███                      |   13.33% 
+Wednesday    72 commits     █████                    |   20.0% 
+Thursday     29 commits     ██                       |   8.06% 
+Friday       58 commits     ████                     |   16.11% 
+Saturday     51 commits     ███                      |   14.17% 
+Sunday       47 commits     ███                      |   13.06%
 
 ```
 
