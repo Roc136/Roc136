@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61173%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61350%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 297 Contributions in the Year 2021
+> 🏆 298 Contributions in the Year 2021
  > 
 > 📦 350.2 kB Used in Github's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    50 commits     ███                      |   13.66% 
-🌆 Daytime    116 commits    ████████                 |   31.69% 
-🌃 Evening    144 commits    █████████                |   39.34% 
-🌙 Night      56 commits     ███                      |   15.3%
+🌞 Morning    50 commits     ███                      |   13.62% 
+🌆 Daytime    116 commits    ████████                 |   31.61% 
+🌃 Evening    145 commits    ██████████               |   39.51% 
+🌙 Night      56 commits     ███                      |   15.26%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       57 commits     ████                     |   15.57% 
-Tuesday      50 commits     ███                      |   13.66% 
-Wednesday    71 commits     ████                     |   19.4% 
-Thursday     31 commits     ██                       |   8.47% 
-Friday       59 commits     ████                     |   16.12% 
-Saturday     51 commits     ███                      |   13.93% 
-Sunday       47 commits     ███                      |   12.84%
+Monday       57 commits     ████                     |   15.53% 
+Tuesday      50 commits     ███                      |   13.62% 
+Wednesday    71 commits     ████                     |   19.35% 
+Thursday     32 commits     ██                       |   8.72% 
+Friday       59 commits     ████                     |   16.08% 
+Saturday     51 commits     ███                      |   13.9% 
+Sunday       47 commits     ███                      |   12.81%
 
 ```
 
@@ -66,14 +66,13 @@ Sunday       47 commits     ███                      |   12.84%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 min               ███████████████          |   63.02% 
-YAML                     0 secs              █████████                |   36.98%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 ```
 
