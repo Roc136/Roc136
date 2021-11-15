@@ -66,13 +66,14 @@ Sunday       47 commits     ███                      |   12.81%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████|   100.0% 
+INI                      0 secs                                       |   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████|   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████|   100.0%
 
 ```
 
