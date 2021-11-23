@@ -21,15 +21,15 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136366%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61468%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 304 Contributions in the Year 2021
  > 
-> 📦 353.8 kB Used in Github's Storage 
+> 📦 353.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,18 +66,18 @@ Sunday       47 commits     ███                      |   12.63%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 58 mins       █████████████████████    |   84.44% 
-INI                      27 mins             █                        |   6.53% 
-CSV/TSV                  23 mins             █                        |   5.42% 
-YAML                     9 mins                                       |   2.15% 
-JSON                     5 mins                                       |   1.18%
+Python                   5 hrs 49 mins       █████████████████████    |   83.87% 
+INI                      29 mins             █                        |   7.09% 
+CSV/TSV                  14 mins             █                        |   3.58% 
+YAML                     9 mins                                       |   2.2% 
+JSON                     5 mins                                       |   1.2%
 
 🔥 Editors: 
-PyCharm                  6 hrs 55 mins       ████████████████████████ |   97.85% 
-VS Code                  9 mins                                       |   2.15%
+PyCharm                  6 hrs 41 mins       ████████████████████████ |   96.32% 
+VS Code                  15 mins             █                        |   3.68%
 
 💻 Operating System: 
-Windows                  7 hrs 4 mins        █████████████████████████|   100.0%
+Windows                  6 hrs 56 mins       █████████████████████████|   100.0%
 
 ```
 
