@@ -66,20 +66,20 @@ Sunday       63 commits     ████                     |   15.59%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 12 mins       ████████████             |   49.97% 
-Kotlin                   1 hr 35 mins        ████                     |   18.86% 
-XML                      1 hr 16 mins        ███                      |   15.11% 
-YAML                     30 mins             █                        |   5.97% 
-Python                   29 mins             █                        |   5.81%
+Java                     6 hrs 51 mins       ███████████              |   47.37% 
+Python                   3 hrs 22 mins       █████                    |   23.24% 
+Kotlin                   1 hr 35 mins        ██                       |   10.98% 
+XML                      1 hr 24 mins        ██                       |   9.71% 
+YAML                     30 mins                                      |   3.47%
 
 🔥 Editors: 
-VS Code                  7 hrs 53 mins       ███████████████████████  |   93.48% 
-PyCharm                  32 mins             █                        |   6.46% 
-Android Studio           0 secs                                       |   0.06%
+VS Code                  10 hrs 33 mins      ██████████████████       |   72.89% 
+PyCharm                  3 hrs 25 mins       ██████                   |   23.62% 
+Android Studio           30 mins                                      |   3.49%
 
 💻 Operating System: 
-Linux                    5 hrs               ██████████████           |   59.42% 
-Windows                  3 hrs 25 mins       ██████████               |   40.58%
+Linux                    7 hrs 41 mins       █████████████            |   53.07% 
+Windows                  6 hrs 48 mins       ███████████              |   46.93%
 
 ```
 
