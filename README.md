@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65996%20lines%20of%20code-blue)
 
@@ -66,20 +66,19 @@ Sunday       63 commits     ███                      |   15.37%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     15 hrs 3 mins       █████████████            |   54.01% 
-Python                   7 hrs 52 mins       ███████                  |   28.22% 
-TeX                      3 hrs 4 mins        ██                       |   11.05% 
-XML                      46 mins                                      |   2.75% 
-Kotlin                   28 mins                                      |   1.7%
+Java                     13 hrs 43 mins      █████████████            |   54.25% 
+Python                   7 hrs 52 mins       ███████                  |   31.09% 
+TeX                      3 hrs 4 mins        ███                      |   12.18% 
+Markdown                 15 mins                                      |   1.05% 
+CSV                      10 mins                                      |   0.69%
 
 🔥 Editors: 
-VS Code                  18 hrs 10 mins      ████████████████         |   65.17% 
-PyCharm                  7 hrs 15 mins       ██████                   |   26.03% 
-Android Studio           2 hrs 27 mins       ██                       |   8.8%
+VS Code                  18 hrs 2 mins       █████████████████        |   71.32% 
+PyCharm                  7 hrs 15 mins       ███████                  |   28.68%
 
 💻 Operating System: 
-Linux                    14 hrs 17 mins      ████████████             |   51.26% 
-Windows                  13 hrs 35 mins      ████████████             |   48.74%
+Linux                    14 hrs 10 mins      ██████████████           |   55.99% 
+Windows                  11 hrs 8 mins       ███████████              |   44.01%
 
 ```
 
