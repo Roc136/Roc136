@@ -27,7 +27,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 346 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 354.5 kB Used in Github's Storage 
  > 
@@ -66,19 +66,17 @@ Sunday       63 commits     ███                      |   15.37%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 32 mins       ███████████████          |   62.43% 
-XML                      55 mins             █████                    |   22.49% 
-Python                   19 mins             ██                       |   7.79% 
-Text                     15 mins             █                        |   6.15% 
-Git Config               0 secs                                       |   0.38%
+Java                     2 hrs 32 mins       ███████████████████      |   76.69% 
+XML                      43 mins             █████                    |   21.9% 
+Git Config               0 secs                                       |   0.47% 
+Markdown                 0 secs                                       |   0.42% 
+HTML                     0 secs                                       |   0.37%
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       ███████████████████████  |   95.34% 
-Android Studio           11 mins             █                        |   4.66%
+VS Code                  3 hrs 19 mins       █████████████████████████|   100.0%
 
 💻 Operating System: 
-Linux                    3 hrs 19 mins       ████████████████████     |   81.4% 
-Windows                  45 mins             ████                     |   18.6%
+Linux                    3 hrs 19 mins       █████████████████████████|   100.0%
 
 ```
 
