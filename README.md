@@ -21,19 +21,19 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65996%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 354.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
@@ -66,14 +66,18 @@ Sunday       63 commits     ███                      |   15.37%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 38 mins        ████████████████████████ |   98.16% 
-Text                     1 min                                        |   1.84%
+Java                     5 hrs 53 mins       ██████████████████████   |   89.84% 
+Python                   27 mins             █                        |   7.01% 
+XML                      6 mins                                       |   1.61% 
+Text                     3 mins                                       |   0.88% 
+Git Config               2 mins                                       |   0.6%
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████|   100.0%
+VS Code                  6 hrs 33 mins       █████████████████████████|   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████|   100.0%
+Linux                    6 hrs 6 mins        ███████████████████████  |   92.99% 
+Windows                  27 mins             █                        |   7.01%
 
 ```
 
