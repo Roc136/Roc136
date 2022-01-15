@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65996%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67408%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 6 Contributions in the Year 2022
  > 
 > 📦 354.5 kB Used in Github's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    51 commits     ███                      |   12.44% 
-🌆 Daytime    124 commits    ███████                  |   30.24% 
-🌃 Evening    170 commits    ██████████               |   41.46% 
-🌙 Night      65 commits     ████                     |   15.85%
+🌞 Morning    51 commits     ███                      |   12.29% 
+🌆 Daytime    124 commits    ███████                  |   29.88% 
+🌃 Evening    175 commits    ██████████               |   42.17% 
+🌙 Night      65 commits     ████                     |   15.66%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       62 commits     ███                      |   15.12% 
-Tuesday      55 commits     ███                      |   13.41% 
-Wednesday    75 commits     ████                     |   18.29% 
-Thursday     43 commits     ██                       |   10.49% 
-Friday       61 commits     ███                      |   14.88% 
-Saturday     51 commits     ███                      |   12.44% 
-Sunday       63 commits     ███                      |   15.37%
+Monday       62 commits     ███                      |   14.94% 
+Tuesday      55 commits     ███                      |   13.25% 
+Wednesday    75 commits     ████                     |   18.07% 
+Thursday     43 commits     ██                       |   10.36% 
+Friday       61 commits     ███                      |   14.7% 
+Saturday     56 commits     ███                      |   13.49% 
+Sunday       63 commits     ███                      |   15.18%
 
 ```
 
@@ -66,29 +66,29 @@ Sunday       63 commits     ███                      |   15.37%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 7 mins        ██████████████████       |   75.1% 
-Markdown                 34 mins             █                        |   7.05% 
-TeX                      29 mins             █                        |   6.12% 
-Python                   27 mins             █                        |   5.64% 
-JSON                     13 mins                                      |   2.77%
+Java                     5 hrs 15 mins       ██████████               |   43.44% 
+TeX                      4 hrs 18 mins       █████████                |   35.6% 
+Markdown                 34 mins             █                        |   4.74% 
+XML                      32 mins             █                        |   4.52% 
+Python                   27 mins             █                        |   3.79%
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████|   100.0%
+VS Code                  12 hrs 7 mins       █████████████████████████|   100.0%
 
 💻 Operating System: 
-Linux                    7 hrs 9 mins        ██████████████████████   |   87.9% 
-Windows                  59 mins             ███                      |   12.1%
+Linux                    6 hrs 52 mins       ██████████████           |   56.8% 
+Windows                  5 hrs 14 mins       ██████████               |   43.2%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████████            |   53.85% 
-Java                     4 repos             ███                      |   15.38% 
-C++                      3 repos             ███                      |   11.54% 
-JavaScript               2 repos             ██                       |   7.69% 
-HTML                     1 repo              █                        |   3.85%
+Python                   14 repos            █████████████            |   51.85% 
+Java                     4 repos             ███                      |   14.81% 
+C++                      3 repos             ██                       |   11.11% 
+JavaScript               2 repos             █                        |   7.41% 
+HTML                     1 repo              █                        |   3.7%
 
 ```
 
