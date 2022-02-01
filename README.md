@@ -66,16 +66,13 @@ Sunday       63 commits     ███                      |   15.18%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     45 mins             █████████████████        |   68.76% 
-JSON                     9 mins              ███                      |   14.92% 
-Python                   9 mins              ███                      |   14.28% 
-Other                    1 min                                        |   2.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████|   100.0%
+No Activity Tracked This Week
 
 ```
 
