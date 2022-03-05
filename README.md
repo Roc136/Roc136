@@ -66,14 +66,17 @@ Sunday       63 commits     ███                      |   15.18%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 mins             █████████████████        |   69.41% 
-YAML                     5 mins              ███████                  |   30.59%
+Python                   2 hrs 10 mins       ███████████████████████  |   93.37% 
+YAML                     5 mins              █                        |   4.1% 
+CSV/TSV                  2 mins                                       |   1.66% 
+INI                      1 min                                        |   0.87%
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████|   100.0%
+PyCharm                  2 hrs 1 min         █████████████████████    |   86.6% 
+VS Code                  18 mins             ███                      |   13.4%
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████|   100.0%
+Windows                  2 hrs 20 mins       █████████████████████████|   100.0%
 
 ```
 
@@ -94,7 +97,7 @@ HTML                     1 repo              █                        |   3.7%
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 20:10:48 UTC
+ Last Updated on 05/03/2022 20:10:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
