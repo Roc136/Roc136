@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
 > 📦 354.5 kB Used in GitHub's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    51 commits     ███                      |   12.29% 
-🌆 Daytime    124 commits    ███████                  |   29.88% 
-🌃 Evening    175 commits    ██████████               |   42.17% 
-🌙 Night      65 commits     ████                     |   15.66%
+🌞 Morning    52 commits     ███                      |   12.5% 
+🌆 Daytime    124 commits    ███████                  |   29.81% 
+🌃 Evening    175 commits    ██████████               |   42.07% 
+🌙 Night      65 commits     ████                     |   15.62%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       62 commits     ███                      |   14.94% 
-Tuesday      55 commits     ███                      |   13.25% 
-Wednesday    75 commits     ████                     |   18.07% 
-Thursday     43 commits     ██                       |   10.36% 
-Friday       61 commits     ███                      |   14.7% 
-Saturday     56 commits     ███                      |   13.49% 
-Sunday       63 commits     ███                      |   15.18%
+Monday       62 commits     ███                      |   14.9% 
+Tuesday      55 commits     ███                      |   13.22% 
+Wednesday    75 commits     ████                     |   18.03% 
+Thursday     43 commits     ██                       |   10.34% 
+Friday       61 commits     ███                      |   14.66% 
+Saturday     56 commits     ███                      |   13.46% 
+Sunday       64 commits     ███                      |   15.38%
 
 ```
 
@@ -66,28 +66,29 @@ Sunday       63 commits     ███                      |   15.18%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       ███████████████████████  |   93.37% 
-YAML                     5 mins              █                        |   4.1% 
-CSV/TSV                  2 mins                                       |   1.66% 
-INI                      1 min                                        |   0.87%
+Python                   2 hrs 10 mins       █████████████████        |   70.16% 
+Java                     37 mins             █████                    |   19.91% 
+YAML                     5 mins                                       |   3.08% 
+Markdown                 4 mins                                       |   2.59% 
+Git Config               3 mins                                       |   2.1%
 
 🔥 Editors: 
-PyCharm                  2 hrs 1 min         █████████████████████    |   86.6% 
-VS Code                  18 mins             ███                      |   13.4%
+PyCharm                  2 hrs 1 min         ████████████████         |   65.08% 
+VS Code                  1 hr 5 mins         ████████                 |   34.92%
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████|   100.0%
+Windows                  3 hrs 6 mins        █████████████████████████|   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████████            |   51.85% 
-Java                     4 repos             ███                      |   14.81% 
-C++                      3 repos             ██                       |   11.11% 
-JavaScript               2 repos             █                        |   7.41% 
-HTML                     1 repo              █                        |   3.7%
+Python                   14 repos            ████████████             |   50.0% 
+Java                     5 repos             ████                     |   17.86% 
+C++                      3 repos             ██                       |   10.71% 
+JavaScript               2 repos             █                        |   7.14% 
+HTML                     1 repo              █                        |   3.57%
 
 ```
 
@@ -97,7 +98,7 @@ HTML                     1 repo              █                        |   3.7%
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/03/2022 20:10:38 UTC
+ Last Updated on 07/03/2022 20:10:27 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
