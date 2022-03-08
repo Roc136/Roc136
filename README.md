@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
 
@@ -66,18 +66,18 @@ Sunday       64 commits     ███                      |   15.38%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       █████████████████        |   70.16% 
-Java                     37 mins             █████                    |   19.91% 
-YAML                     5 mins                                       |   3.08% 
-Markdown                 4 mins                                       |   2.59% 
-Git Config               3 mins                                       |   2.1%
+Python                   1 hr 57 mins        █████████████████        |   70.25% 
+Java                     37 mins             █████                    |   22.14% 
+Markdown                 4 mins                                       |   2.88% 
+Git Config               3 mins                                       |   2.34% 
+CSV/TSV                  2 mins                                       |   1.39%
 
 🔥 Editors: 
-PyCharm                  2 hrs 1 min         ████████████████         |   65.08% 
-VS Code                  1 hr 5 mins         ████████                 |   34.92%
+PyCharm                  2 hrs 1 min         ██████████████████       |   72.36% 
+VS Code                  46 mins             ███████                  |   27.64%
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████|   100.0%
+Windows                  2 hrs 47 mins       █████████████████████████|   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 20:10:27 UTC
+ Last Updated on 08/03/2022 20:11:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
