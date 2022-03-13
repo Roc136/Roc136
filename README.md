@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2022
+> 🏆 21 Contributions in the Year 2022
  > 
 > 📦 354.5 kB Used in GitHub's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    52 commits     ███                      |   12.5% 
-🌆 Daytime    124 commits    ███████                  |   29.81% 
-🌃 Evening    175 commits    ██████████               |   42.07% 
-🌙 Night      65 commits     ████                     |   15.62%
+🌞 Morning    52 commits     ███                      |   12.18% 
+🌆 Daytime    125 commits    ███████                  |   29.27% 
+🌃 Evening    185 commits    ██████████               |   43.33% 
+🌙 Night      65 commits     ███                      |   15.22%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       62 commits     ███                      |   14.9% 
-Tuesday      55 commits     ███                      |   13.22% 
-Wednesday    75 commits     ████                     |   18.03% 
-Thursday     43 commits     ██                       |   10.34% 
-Friday       61 commits     ███                      |   14.66% 
-Saturday     56 commits     ███                      |   13.46% 
-Sunday       64 commits     ███                      |   15.38%
+Monday       62 commits     ███                      |   14.52% 
+Tuesday      58 commits     ███                      |   13.58% 
+Wednesday    75 commits     ████                     |   17.56% 
+Thursday     43 commits     ██                       |   10.07% 
+Friday       61 commits     ███                      |   14.29% 
+Saturday     59 commits     ███                      |   13.82% 
+Sunday       69 commits     ████                     |   16.16%
 
 ```
 
@@ -66,17 +66,13 @@ Sunday       64 commits     ███                      |   15.38%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     37 mins             ████████████████         |   65.65% 
-Text                     10 mins             ████                     |   18.03% 
-Markdown                 4 mins              ██                       |   8.55% 
-Git Config               3 mins              █                        |   6.93% 
-XML                      0 secs                                       |   0.83%
+Text                     10 mins             █████████████████████████|   100.0%
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████|   100.0%
+VS Code                  10 mins             █████████████████████████|   100.0%
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████|   100.0%
+Windows                  10 mins             █████████████████████████|   100.0%
 
 ```
 
@@ -97,7 +93,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/03/2022 20:11:04 UTC
+ Last Updated on 13/03/2022 20:10:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
