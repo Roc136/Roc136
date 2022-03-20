@@ -66,13 +66,16 @@ Sunday       69 commits     ████                     |   16.16%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      6 hrs 18 mins       █████████████████████████|   99.87% 
+Makefile                 0 secs                                       |   0.12% 
+C                        0 secs                                       |   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            5 hrs 42 mins       ██████████████████████   |   90.42% 
+VS Code                  36 mins             ██                       |   9.58%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 19 mins       █████████████████████████|   100.0%
 
 ```
 
@@ -93,7 +96,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 20:10:26 UTC
+ Last Updated on 20/03/2022 20:10:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
