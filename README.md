@@ -27,35 +27,35 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 25 Contributions in the Year 2022
  > 
-> 📦 354.5 kB Used in GitHub's Storage 
+> 📦 354.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    52 commits     ███                      |   12.18% 
-🌆 Daytime    125 commits    ███████                  |   29.27% 
-🌃 Evening    185 commits    ██████████               |   43.33% 
-🌙 Night      65 commits     ███                      |   15.22%
+🌞 Morning    51 commits     ███                      |   12.2% 
+🌆 Daytime    124 commits    ███████                  |   29.67% 
+🌃 Evening    180 commits    ██████████               |   43.06% 
+🌙 Night      63 commits     ███                      |   15.07%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       62 commits     ███                      |   14.52% 
-Tuesday      58 commits     ███                      |   13.58% 
-Wednesday    75 commits     ████                     |   17.56% 
-Thursday     43 commits     ██                       |   10.07% 
-Friday       61 commits     ███                      |   14.29% 
-Saturday     59 commits     ███                      |   13.82% 
-Sunday       69 commits     ████                     |   16.16%
+Monday       62 commits     ███                      |   14.83% 
+Tuesday      57 commits     ███                      |   13.64% 
+Wednesday    65 commits     ████                     |   15.55% 
+Thursday     43 commits     ██                       |   10.29% 
+Friday       61 commits     ███                      |   14.59% 
+Saturday     59 commits     ███                      |   14.11% 
+Sunday       71 commits     ████                     |   16.99%
 
 ```
 
@@ -66,16 +66,13 @@ Sunday       69 commits     ████                     |   16.16%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 18 mins       █████████████████████████|   99.87% 
-Makefile                 0 secs                                       |   0.12% 
-C                        0 secs                                       |   0.02%
+Git Config               0 secs              █████████████████████████|   100.0%
 
 🔥 Editors: 
-Visual Studio            5 hrs 42 mins       ██████████████████████   |   90.42% 
-VS Code                  36 mins             ██                       |   9.58%
+VS Code                  0 secs              █████████████████████████|   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 19 mins       █████████████████████████|   100.0%
+Windows                  0 secs              █████████████████████████|   100.0%
 
 ```
 
@@ -96,7 +93,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 20:10:24 UTC
+ Last Updated on 27/03/2022 20:10:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
