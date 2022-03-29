@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
 
@@ -66,13 +66,17 @@ Sunday       71 commits     ████                     |   16.99%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Git Config               0 secs              █████████████████████████|   100.0%
+Markdown                 1 hr 3 mins         ███████████████████████  |   93.77% 
+Java                     2 mins                                       |   3.24% 
+TeX                      1 min                                        |   2.54% 
+Git Config               0 secs                                       |   0.45%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████|   100.0%
+IntelliJ                 1 hr 5 mins         ████████████████████████ |   95.5% 
+VS Code                  3 mins              █                        |   4.5%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████|   100.0%
+Windows                  1 hr 8 mins         █████████████████████████|   100.0%
 
 ```
 
@@ -93,7 +97,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/03/2022 20:10:52 UTC
+ Last Updated on 29/03/2022 20:10:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
