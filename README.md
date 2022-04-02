@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 25 Contributions in the Year 2022
+> 🏆 29 Contributions in the Year 2022
  > 
 > 📦 354.6 kB Used in GitHub's Storage 
  > 
@@ -66,17 +66,18 @@ Sunday       71 commits     ████                     |   16.99%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ███████████████████████  |   93.77% 
-Java                     2 mins                                       |   3.24% 
-TeX                      1 min                                        |   2.54% 
-Git Config               0 secs                                       |   0.45%
+Java                     3 hrs 21 mins       ████████████             |   49.15% 
+Markdown                 1 hr 5 mins         ████                     |   15.94% 
+Properties               47 mins             ███                      |   11.5% 
+XML                      31 mins             ██                       |   7.73% 
+JavaScript               16 mins             █                        |   3.93%
 
 🔥 Editors: 
-IntelliJ                 1 hr 5 mins         ████████████████████████ |   95.5% 
-VS Code                  3 mins              █                        |   4.5%
+IntelliJ                 6 hrs 47 mins       ████████████████████████ |   99.25% 
+VS Code                  3 mins                                       |   0.75%
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████|   100.0%
+Windows                  6 hrs 50 mins       █████████████████████████|   100.0%
 
 ```
 
@@ -97,7 +98,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/04/2022 20:11:25 UTC
+ Last Updated on 02/04/2022 20:11:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
