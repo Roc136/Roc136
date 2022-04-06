@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
 
@@ -66,20 +66,20 @@ Sunday       71 commits     ████                     |   16.99%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 51 mins       █████████                |   37.4% 
-Other                    3 hrs 13 mins       ███████                  |   31.27% 
-Properties               47 mins             ██                       |   7.64% 
-XML                      44 mins             █                        |   7.16% 
-YAML                     37 mins             █                        |   6.0%
+Other                    23 hrs 9 mins       ███████████████████      |   76.67% 
+Java                     3 hrs 51 mins       ███                      |   12.75% 
+Properties               47 mins                                      |   2.6% 
+XML                      44 mins                                      |   2.44% 
+YAML                     37 mins                                      |   2.05%
 
 🔥 Editors: 
-IntelliJ                 6 hrs 34 mins       ████████████████         |   63.9% 
-Browser                  3 hrs 4 mins        ███████                  |   29.85% 
-VS Code                  38 mins             █                        |   6.25%
+Browser                  23 hrs 1 min        ███████████████████      |   76.18% 
+IntelliJ                 6 hrs 34 mins       █████                    |   21.78% 
+VS Code                  36 mins                                      |   2.04%
 
 💻 Operating System: 
-Windows                  9 hrs 49 mins       ███████████████████████  |   95.45% 
-Linux                    28 mins             █                        |   4.55%
+Windows                  29 hrs 44 mins      ████████████████████████ |   98.45% 
+Linux                    28 mins                                      |   1.55%
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/04/2022 20:12:17 UTC
+ Last Updated on 06/04/2022 20:10:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
