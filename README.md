@@ -21,21 +21,21 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 30 Contributions in the Year 2022
+> 🏆 32 Contributions in the Year 2022
  > 
-> 📦 354.6 kB Used in GitHub's Storage 
+> 📦 356.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -66,31 +66,33 @@ Sunday       71 commits     ████                     |   16.99%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    46 hrs 9 mins       ████████████████████████ |   96.78% 
-Java                     41 mins                                      |   1.46% 
-YAML                     24 mins                                      |   0.86% 
-XML                      12 mins                                      |   0.44% 
-GitIgnore file           8 mins                                       |   0.28%
+Other                    64 hrs 46 mins      ██████████████████████   |   89.95% 
+Vue.js                   3 hrs 34 mins       █                        |   4.97% 
+TypeScript               1 hr 14 mins                                 |   1.72% 
+JavaScript               40 mins                                      |   0.94% 
+JSON                     40 mins                                      |   0.93%
 
 🔥 Editors: 
-Browser                  46 hrs 1 min        ████████████████████████ |   96.47% 
-IntelliJ                 1 hr 2 mins                                  |   2.19% 
-VS Code                  38 mins                                      |   1.34%
+Browser                  63 hrs 57 mins      ██████████████████████   |   88.81% 
+WebStorm                 4 hrs 2 mins        █                        |   5.62% 
+VS Code                  3 hrs 1 min         █                        |   4.21% 
+Powerpoint               23 mins                                      |   0.54% 
+IntelliJ                 19 mins                                      |   0.45%
 
 💻 Operating System: 
-Windows                  47 hrs 12 mins      ████████████████████████ |   98.97% 
-Linux                    29 mins                                      |   1.03%
+Windows                  71 hrs 59 mins      █████████████████████████|   99.97% 
+Linux                    1 min                                        |   0.03%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ████████████             |   50.0% 
-Java                     5 repos             ████                     |   17.86% 
-C++                      3 repos             ██                       |   10.71% 
-JavaScript               2 repos             █                        |   7.14% 
-HTML                     1 repo              █                        |   3.57%
+Python                   14 repos            ████████████             |   48.28% 
+Java                     5 repos             ████                     |   17.24% 
+C++                      3 repos             ██                       |   10.34% 
+JavaScript               2 repos             █                        |   6.9% 
+HTML                     1 repo                                       |   3.45%
 
 ```
 
@@ -100,7 +102,7 @@ HTML                     1 repo              █                        |   3.57
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/04/2022 20:12:28 UTC
+ Last Updated on 13/04/2022 20:12:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
