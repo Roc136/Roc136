@@ -25,11 +25,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-239%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 89 Contributions in the Year 2022
+> 🏆 113 Contributions in the Year 2022
  > 
 > 📦 416.0 kB Used in GitHub's Storage 
  > 
@@ -42,22 +42,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    43 commits     ██                       |   10.75% 
-🌆 Daytime    115 commits    ███████                  |   28.75% 
-🌃 Evening    182 commits    ███████████              |   45.5% 
-🌙 Night      60 commits     ███                      |   15.0%
+🌞 Morning    44 commits     ██                       |   10.73% 
+🌆 Daytime    113 commits    ███████                  |   27.56% 
+🌃 Evening    187 commits    ███████████              |   45.61% 
+🌙 Night      66 commits     ████                     |   16.1%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       71 commits     ████                     |   17.75% 
-Tuesday      39 commits     ██                       |   9.75% 
-Wednesday    46 commits     ███                      |   11.5% 
-Thursday     40 commits     ██                       |   10.0% 
-Friday       58 commits     ███                      |   14.5% 
-Saturday     68 commits     ████                     |   17.0% 
-Sunday       78 commits     █████                    |   19.5%
+Monday       74 commits     ████                     |   18.05% 
+Tuesday      50 commits     ███                      |   12.2% 
+Wednesday    50 commits     ███                      |   12.2% 
+Thursday     43 commits     ██                       |   10.49% 
+Friday       59 commits     ███                      |   14.39% 
+Saturday     63 commits     ███                      |   15.37% 
+Sunday       71 commits     ████                     |   17.32%
 
 ```
 
@@ -68,32 +68,32 @@ Sunday       78 commits     █████                    |   19.5%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    52 hrs 18 mins      ██████████████████████   |   88.46% 
-TypeScript               5 hrs 38 mins       ██                       |   9.54% 
-Python                   29 mins                                      |   0.84% 
-JavaScript               20 mins                                      |   0.57% 
-JSON                     11 mins                                      |   0.32%
+Other                    54 hrs 55 mins      ██████████████████████   |   88.33% 
+TypeScript               6 hrs 17 mins       ██                       |   10.11% 
+JavaScript               37 mins                                      |   1.0% 
+JSON                     10 mins                                      |   0.27% 
+GitIgnore file           3 mins                                       |   0.1%
 
 🔥 Editors: 
-Browser                  50 hrs 49 mins      █████████████████████    |   85.96% 
-WebStorm                 6 hrs 15 mins       ██                       |   10.59% 
-Word                     1 hr 22 mins                                 |   2.34% 
-PyCharm                  28 mins                                      |   0.8% 
-Powerpoint               5 mins                                       |   0.17%
+Browser                  53 hrs 24 mins      █████████████████████    |   85.89% 
+WebStorm                 7 hrs 12 mins       ███                      |   11.59% 
+Word                     1 hr 25 mins                                 |   2.3% 
+Powerpoint               5 mins                                       |   0.13% 
+VS Code                  2 mins                                       |   0.08%
 
 💻 Operating System: 
-Windows                  59 hrs 7 mins       █████████████████████████|   100.0%
+Windows                  62 hrs 10 mins      █████████████████████████|   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ████████████             |   50.0% 
-Java                     5 repos             ████                     |   16.67% 
-C++                      3 repos             ██                       |   10.0% 
-JavaScript               2 repos             █                        |   6.67% 
-HTML                     1 repo                                       |   3.33%
+Python                   15 repos            ████████████             |   48.39% 
+Java                     5 repos             ████                     |   16.13% 
+C++                      3 repos             ██                       |   9.68% 
+JavaScript               2 repos             █                        |   6.45% 
+TypeScript               2 repos             █                        |   6.45%
 
 ```
 
@@ -103,7 +103,7 @@ HTML                     1 repo                                       |   3.33%
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 20:12:30 UTC
+ Last Updated on 30/05/2022 20:13:05 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
