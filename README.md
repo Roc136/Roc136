@@ -68,21 +68,21 @@ Sunday       71 commits     ████                     |   17.32%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    54 hrs 55 mins      ██████████████████████   |   88.33% 
-TypeScript               6 hrs 17 mins       ██                       |   10.11% 
-JavaScript               37 mins                                      |   1.0% 
-JSON                     10 mins                                      |   0.27% 
-GitIgnore file           3 mins                                       |   0.1%
+Other                    54 hrs 40 mins      ███████████████████████  |   94.8% 
+TypeScript               2 hrs 25 mins       █                        |   4.21% 
+JavaScript               28 mins                                      |   0.82% 
+JSON                     2 mins                                       |   0.08% 
+Python                   1 min                                        |   0.04%
 
 🔥 Editors: 
-Browser                  53 hrs 24 mins      █████████████████████    |   85.89% 
-WebStorm                 7 hrs 12 mins       ███                      |   11.59% 
-Word                     1 hr 25 mins                                 |   2.3% 
-Powerpoint               5 mins                                       |   0.13% 
+Browser                  53 hrs 4 mins       ███████████████████████  |   92.05% 
+WebStorm                 2 hrs 56 mins       █                        |   5.11% 
+Word                     1 hr 30 mins                                 |   2.62% 
+Powerpoint               4 mins                                       |   0.14% 
 VS Code                  2 mins                                       |   0.08%
 
 💻 Operating System: 
-Windows                  62 hrs 10 mins      █████████████████████████|   100.0%
+Windows                  57 hrs 40 mins      █████████████████████████|   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ TypeScript               2 repos             █                        |   6.45
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 20:13:05 UTC
+ Last Updated on 31/05/2022 20:12:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
