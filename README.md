@@ -42,22 +42,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    44 commits     ██                       |   10.6% 
-🌆 Daytime    115 commits    ███████                  |   27.71% 
-🌃 Evening    190 commits    ███████████              |   45.78% 
-🌙 Night      66 commits     ████                     |   15.9%
+🌞 Morning    44 commits     ██                       |   10.78% 
+🌆 Daytime    115 commits    ███████                  |   28.19% 
+🌃 Evening    184 commits    ███████████              |   45.1% 
+🌙 Night      65 commits     ████                     |   15.93%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       74 commits     ████                     |   17.83% 
-Tuesday      50 commits     ███                      |   12.05% 
-Wednesday    52 commits     ███                      |   12.53% 
-Thursday     46 commits     ██                       |   11.08% 
-Friday       59 commits     ███                      |   14.22% 
-Saturday     63 commits     ███                      |   15.18% 
-Sunday       71 commits     ████                     |   17.11%
+Monday       74 commits     ████                     |   18.14% 
+Tuesday      48 commits     ███                      |   11.76% 
+Wednesday    51 commits     ███                      |   12.5% 
+Thursday     42 commits     ██                       |   10.29% 
+Friday       59 commits     ███                      |   14.46% 
+Saturday     63 commits     ███                      |   15.44% 
+Sunday       71 commits     ████                     |   17.4%
 
 ```
 
@@ -68,21 +68,21 @@ Sunday       71 commits     ████                     |   17.11%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    52 hrs 2 mins       ██████████████████████   |   88.76% 
-C++                      4 hrs 39 mins       ██                       |   7.93% 
-TypeScript               1 hr 23 mins                                 |   2.36% 
-JavaScript               24 mins                                      |   0.71% 
+Other                    50 hrs 13 mins      ██████████████████████   |   88.44% 
+C++                      4 hrs 37 mins       ██                       |   8.15% 
+TypeScript               1 hr 23 mins                                 |   2.44% 
+JavaScript               24 mins                                      |   0.73% 
 JSON                     3 mins                                       |   0.09%
 
 🔥 Editors: 
-Browser                  50 hrs 27 mins      █████████████████████    |   86.05% 
-Visual Studio            4 hrs 7 mins        █                        |   7.04% 
-WebStorm                 1 hr 48 mins                                 |   3.08% 
-Word                     1 hr 30 mins                                 |   2.57% 
-VS Code                  38 mins                                      |   1.09%
+Browser                  49 hrs 24 mins      █████████████████████    |   86.99% 
+Visual Studio            4 hrs 7 mins        █                        |   7.26% 
+WebStorm                 1 hr 48 mins                                 |   3.18% 
+Word                     45 mins                                      |   1.32% 
+VS Code                  36 mins                                      |   1.08%
 
 💻 Operating System: 
-Windows                  58 hrs 38 mins      █████████████████████████|   100.0%
+Windows                  56 hrs 48 mins      █████████████████████████|   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ TypeScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/06/2022 20:12:31 UTC
+ Last Updated on 03/06/2022 20:12:53 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
