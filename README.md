@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 120 Contributions in the Year 2022
+> 🏆 121 Contributions in the Year 2022
  > 
 > 📦 416.5 kB Used in GitHub's Storage 
  > 
@@ -68,22 +68,22 @@ Sunday       71 commits     ████                     |   17.53%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    35 hrs 16 mins      ███████████████████████  |   93.71% 
-Java                     2 hrs 17 mins       █                        |   6.11% 
-Vue.js                   1 min                                        |   0.08% 
-Markdown                 1 min                                        |   0.08% 
-YAML                     0 secs                                       |   0.03%
+Other                    38 hrs 38 mins      ███████████████████████  |   92.8% 
+Java                     2 hrs 51 mins       █                        |   6.88% 
+Vue.js                   4 mins                                       |   0.16% 
+Markdown                 1 min                                        |   0.07% 
+YAML                     1 min                                        |   0.06%
 
 🔥 Editors: 
-Browser                  30 hrs 55 mins      ████████████████████     |   82.14% 
-Word                     4 hrs 19 mins       ██                       |   11.48% 
-IntelliJ                 2 hrs 17 mins       █                        |   6.07% 
-VS Code                  5 mins                                       |   0.22% 
-Powerpoint               1 min                                        |   0.09%
+Browser                  34 hrs 16 mins      ████████████████████     |   82.34% 
+Word                     4 hrs 19 mins       ██                       |   10.37% 
+IntelliJ                 2 hrs 50 mins       █                        |   6.84% 
+VS Code                  8 mins                                       |   0.36% 
+Powerpoint               1 min                                        |   0.08%
 
 💻 Operating System: 
-Windows                  37 hrs 35 mins      █████████████████████████|   99.86% 
-Linux                    3 mins                                       |   0.14%
+Windows                  41 hrs 33 mins      █████████████████████████|   99.84% 
+Linux                    4 mins                                       |   0.16%
 
 ```
 
@@ -104,7 +104,7 @@ TypeScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 20:12:57 UTC
+ Last Updated on 18/06/2022 20:11:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
