@@ -68,20 +68,19 @@ Sunday       71 commits     ████                     |   17.53%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    45 hrs 3 mins       ███████████████████████  |   92.02% 
-Java                     3 hrs 44 mins       ██                       |   7.65% 
-SQL                      4 mins                                       |   0.17% 
+Other                    44 hrs 54 mins      ██████████████████████   |   89.31% 
+Java                     5 hrs 12 mins       ██                       |   10.37% 
+SQL                      4 mins                                       |   0.16% 
 YAML                     1 min                                        |   0.06% 
 Smali                    1 min                                        |   0.04%
 
 🔥 Editors: 
-Browser                  44 hrs 58 mins      ███████████████████████  |   91.84% 
-IntelliJ                 3 hrs 47 mins       ██                       |   7.73% 
-VS Code                  7 mins                                       |   0.26% 
-Powerpoint               4 mins                                       |   0.17%
+Browser                  44 hrs 53 mins      ██████████████████████   |   89.3% 
+IntelliJ                 5 hrs 15 mins       ██                       |   10.45% 
+VS Code                  7 mins                                       |   0.26%
 
 💻 Operating System: 
-Windows                  48 hrs 53 mins      █████████████████████████|   99.84% 
+Windows                  50 hrs 11 mins      █████████████████████████|   99.84% 
 Linux                    4 mins                                       |   0.16%
 
 ```
@@ -103,7 +102,7 @@ TypeScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2022 20:12:08 UTC
+ Last Updated on 27/06/2022 20:14:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
