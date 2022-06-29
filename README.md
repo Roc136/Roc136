@@ -68,20 +68,20 @@ Sunday       71 commits     ████                     |   17.53%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    44 hrs 47 mins      █████████████████████    |   84.03% 
-Java                     8 hrs 4 mins        ███                      |   15.16% 
-Vue.js                   6 mins                                       |   0.21% 
-SQL                      5 mins                                       |   0.19% 
-YAML                     5 mins                                       |   0.18%
+Other                    43 hrs 52 mins      ███████████████████      |   75.73% 
+Java                     13 hrs 22 mins      █████                    |   23.1% 
+XML                      11 mins                                      |   0.34% 
+YAML                     7 mins                                       |   0.21% 
+Vue.js                   6 mins                                       |   0.19%
 
 🔥 Editors: 
-Browser                  44 hrs 47 mins      █████████████████████    |   84.01% 
-IntelliJ                 8 hrs 3 mins        ███                      |   15.12% 
-VS Code                  27 mins                                      |   0.87%
+Browser                  43 hrs 51 mins      ███████████████████      |   75.72% 
+IntelliJ                 13 hrs 20 mins      █████                    |   23.04% 
+VS Code                  43 mins                                      |   1.24%
 
 💻 Operating System: 
-Windows                  53 hrs              ████████████████████████ |   99.43% 
-Linux                    18 mins                                      |   0.57%
+Windows                  57 hrs 28 mins      ████████████████████████ |   99.21% 
+Linux                    27 mins                                      |   0.79%
 
 ```
 
@@ -102,7 +102,7 @@ TypeScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 20:12:21 UTC
+ Last Updated on 29/06/2022 20:14:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
