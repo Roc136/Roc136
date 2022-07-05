@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
@@ -68,22 +68,22 @@ Sunday       71 commits     ████                     |   17.53%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    47 hrs 18 mins      ████████████████         |   64.41% 
-Java                     20 hrs 24 mins      ███████                  |   27.78% 
-HTML                     2 hrs 47 mins       █                        |   3.79% 
-YAML                     54 mins                                      |   1.23% 
-XML                      32 mins                                      |   0.73%
+Other                    53 hrs 52 mins      █████████████████        |   69.43% 
+Java                     17 hrs 59 mins      █████                    |   23.19% 
+HTML                     2 hrs 53 mins       █                        |   3.73% 
+YAML                     51 mins                                      |   1.11% 
+XML                      30 mins                                      |   0.66%
 
 🔥 Editors: 
-Browser                  46 hrs 36 mins      ███████████████          |   63.45% 
-IntelliJ                 24 hrs 26 mins      ████████                 |   33.29% 
-VS Code                  1 hr 33 mins                                 |   2.12% 
-Word                     34 mins                                      |   0.79% 
-Notepad++                10 mins                                      |   0.24%
+Browser                  50 hrs 24 mins      ████████████████         |   64.97% 
+IntelliJ                 22 hrs 13 mins      ███████                  |   28.64% 
+Word                     3 hrs 20 mins       █                        |   4.3% 
+VS Code                  1 hr 21 mins                                 |   1.76% 
+Notepad++                10 mins                                      |   0.22%
 
 💻 Operating System: 
-Windows                  72 hrs 14 mins      ████████████████████████ |   98.36% 
-Linux                    1 hr 12 mins                                 |   1.64%
+Windows                  76 hrs 31 mins      ████████████████████████ |   98.62% 
+Linux                    1 hr 4 mins                                  |   1.38%
 
 ```
 
@@ -104,7 +104,7 @@ TypeScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/07/2022 20:13:20 UTC
+ Last Updated on 05/07/2022 20:15:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
