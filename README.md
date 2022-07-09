@@ -25,11 +25,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 151 Contributions in the Year 2022
+> 🏆 305 Contributions in the Year 2022
  > 
 > 📦 416.5 kB Used in GitHub's Storage 
  > 
@@ -42,22 +42,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    44 commits     ██                       |   10.86% 
-🌆 Daytime    114 commits    ███████                  |   28.15% 
-🌃 Evening    182 commits    ███████████              |   44.94% 
-🌙 Night      65 commits     ████                     |   16.05%
+🌞 Morning    47 commits     ██                       |   10.11% 
+🌆 Daytime    158 commits    ████████                 |   33.98% 
+🌃 Evening    192 commits    ██████████               |   41.29% 
+🌙 Night      68 commits     ███                      |   14.62%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       74 commits     ████                     |   18.27% 
-Tuesday      48 commits     ███                      |   11.85% 
-Wednesday    48 commits     ███                      |   11.85% 
-Thursday     42 commits     ██                       |   10.37% 
-Friday       59 commits     ███                      |   14.57% 
-Saturday     63 commits     ████                     |   15.56% 
-Sunday       71 commits     ████                     |   17.53%
+Monday       89 commits     ████                     |   19.14% 
+Tuesday      60 commits     ███                      |   12.9% 
+Wednesday    58 commits     ███                      |   12.47% 
+Thursday     58 commits     ███                      |   12.47% 
+Friday       68 commits     ███                      |   14.62% 
+Saturday     60 commits     ███                      |   12.9% 
+Sunday       72 commits     ███                      |   15.48%
 
 ```
 
@@ -68,22 +68,22 @@ Sunday       71 commits     ████                     |   17.53%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    52 hrs 17 mins      ██████████████████       |   72.88% 
-Java                     8 hrs 32 mins       ███                      |   11.9% 
-HTML                     4 hrs 35 mins       █                        |   6.41% 
-Python                   3 hrs 35 mins       █                        |   5.01% 
-YAML                     1 hr 20 mins                                 |   1.88%
+Other                    54 hrs 10 mins      ██████████████████       |   73.14% 
+Java                     8 hrs 47 mins       ███                      |   11.87% 
+HTML                     4 hrs 35 mins       █                        |   6.2% 
+Python                   3 hrs 36 mins       █                        |   4.86% 
+YAML                     1 hr 26 mins                                 |   1.94%
 
 🔥 Editors: 
-Browser                  47 hrs 24 mins      ████████████████         |   66.08% 
-IntelliJ                 12 hrs 47 mins      ████                     |   17.83% 
-PyCharm                  3 hrs 38 mins       █                        |   5.08% 
-Word                     3 hrs 19 mins       █                        |   4.64% 
-VS Code                  2 hrs 50 mins       █                        |   3.95%
+Browser                  48 hrs 4 mins       ████████████████         |   64.9% 
+IntelliJ                 13 hrs 9 mins       ████                     |   17.76% 
+PyCharm                  3 hrs 38 mins       █                        |   4.92% 
+Word                     3 hrs 17 mins       █                        |   4.45% 
+VS Code                  2 hrs 54 mins       █                        |   3.93%
 
 💻 Operating System: 
-Windows                  69 hrs 13 mins      ████████████████████████ |   96.5% 
-Linux                    2 hrs 30 mins       █                        |   3.5%
+Windows                  71 hrs 29 mins      ████████████████████████ |   96.51% 
+Linux                    2 hrs 35 mins                                |   3.49%
 
 ```
 
@@ -91,10 +91,10 @@ Linux                    2 hrs 30 mins       █                        |   3.5%
 
 ```text
 Python                   15 repos            ███████████              |   46.88% 
-Java                     5 repos             ████                     |   15.62% 
 C++                      4 repos             ███                      |   12.5% 
-JavaScript               2 repos             █                        |   6.25% 
-TypeScript               2 repos             █                        |   6.25%
+Java                     4 repos             ███                      |   12.5% 
+HTML                     2 repos             █                        |   6.25% 
+JavaScript               2 repos             █                        |   6.25%
 
 ```
 
@@ -104,7 +104,7 @@ TypeScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/07/2022 20:11:05 UTC
+ Last Updated on 09/07/2022 20:12:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
