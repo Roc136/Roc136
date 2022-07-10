@@ -25,11 +25,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 305 Contributions in the Year 2022
+> 🏆 308 Contributions in the Year 2022
  > 
 > 📦 416.5 kB Used in GitHub's Storage 
  > 
@@ -54,10 +54,10 @@
 Monday       89 commits     ████                     |   19.14% 
 Tuesday      60 commits     ███                      |   12.9% 
 Wednesday    58 commits     ███                      |   12.47% 
-Thursday     58 commits     ███                      |   12.47% 
+Thursday     56 commits     ███                      |   12.04% 
 Friday       68 commits     ███                      |   14.62% 
 Saturday     60 commits     ███                      |   12.9% 
-Sunday       72 commits     ███                      |   15.48%
+Sunday       74 commits     ████                     |   15.91%
 
 ```
 
@@ -68,22 +68,22 @@ Sunday       72 commits     ███                      |   15.48%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    54 hrs 10 mins      ██████████████████       |   73.14% 
-Java                     8 hrs 47 mins       ███                      |   11.87% 
-HTML                     4 hrs 35 mins       █                        |   6.2% 
-Python                   3 hrs 36 mins       █                        |   4.86% 
-YAML                     1 hr 26 mins                                 |   1.94%
+Other                    47 hrs 2 mins       ██████████████████       |   73.56% 
+Java                     6 hrs 25 mins       ██                       |   10.05% 
+HTML                     4 hrs 25 mins       █                        |   6.93% 
+Python                   3 hrs 36 mins       █                        |   5.63% 
+YAML                     1 hr 11 mins                                 |   1.86%
 
 🔥 Editors: 
-Browser                  48 hrs 4 mins       ████████████████         |   64.9% 
-IntelliJ                 13 hrs 9 mins       ████                     |   17.76% 
-PyCharm                  3 hrs 38 mins       █                        |   4.92% 
-Word                     3 hrs 17 mins       █                        |   4.45% 
-VS Code                  2 hrs 54 mins       █                        |   3.93%
+Browser                  41 hrs 2 mins       ████████████████         |   64.19% 
+IntelliJ                 10 hrs 27 mins      ████                     |   16.37% 
+PyCharm                  3 hrs 38 mins       █                        |   5.7% 
+Word                     3 hrs 11 mins       █                        |   4.98% 
+Powerpoint               2 hrs 41 mins       █                        |   4.21%
 
 💻 Operating System: 
-Windows                  71 hrs 29 mins      ████████████████████████ |   96.51% 
-Linux                    2 hrs 35 mins                                |   3.49%
+Windows                  61 hrs 34 mins      ████████████████████████ |   96.3% 
+Linux                    2 hrs 21 mins       █                        |   3.7%
 
 ```
 
@@ -104,7 +104,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 20:12:11 UTC
+ Last Updated on 10/07/2022 20:10:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
