@@ -25,11 +25,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 308 Contributions in the Year 2022
+> 🏆 315 Contributions in the Year 2022
  > 
 > 📦 416.5 kB Used in GitHub's Storage 
  > 
@@ -43,18 +43,18 @@
 
 ```text
 🌞 Morning    47 commits     ██                       |   10.11% 
-🌆 Daytime    158 commits    ████████                 |   33.98% 
-🌃 Evening    192 commits    ██████████               |   41.29% 
+🌆 Daytime    159 commits    ████████                 |   34.19% 
+🌃 Evening    191 commits    ██████████               |   41.08% 
 🌙 Night      68 commits     ███                      |   14.62%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       89 commits     ████                     |   19.14% 
+Monday       90 commits     ████                     |   19.35% 
 Tuesday      60 commits     ███                      |   12.9% 
-Wednesday    58 commits     ███                      |   12.47% 
-Thursday     56 commits     ███                      |   12.04% 
+Wednesday    59 commits     ███                      |   12.69% 
+Thursday     54 commits     ███                      |   11.61% 
 Friday       68 commits     ███                      |   14.62% 
 Saturday     60 commits     ███                      |   12.9% 
 Sunday       74 commits     ████                     |   15.91%
@@ -68,22 +68,22 @@ Sunday       74 commits     ████                     |   15.91%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 36 mins      ███████████████████      |   76.31% 
-Python                   2 hrs 27 mins       ██                       |   8.67% 
-Java                     2 hrs 24 mins       ██                       |   8.51% 
-YAML                     28 mins                                      |   1.65% 
-HTML                     25 mins                                      |   1.53%
+Other                    14 hrs 17 mins      ████████████████████     |   79.64% 
+Java                     1 hr 56 mins        ██                       |   10.84% 
+Markdown                 24 mins                                      |   2.29% 
+YAML                     24 mins                                      |   2.25% 
+Python                   17 mins                                      |   1.66%
 
 🔥 Editors: 
-Browser                  18 hrs 38 mins      ████████████████         |   65.84% 
-IntelliJ                 3 hrs 19 mins       ███                      |   11.75% 
-Powerpoint               2 hrs 42 mins       ██                       |   9.55% 
-PyCharm                  2 hrs 26 mins       ██                       |   8.64% 
-VS Code                  44 mins                                      |   2.63%
+Browser                  11 hrs 17 mins      ███████████████          |   62.93% 
+IntelliJ                 2 hrs 57 mins       ████                     |   16.51% 
+Powerpoint               2 hrs 44 mins       ███                      |   15.26% 
+VS Code                  19 mins                                      |   1.79% 
+PyCharm                  10 mins                                      |   1.0%
 
 💻 Operating System: 
-Windows                  27 hrs 51 mins      ████████████████████████ |   98.42% 
-Linux                    26 mins                                      |   1.58%
+Windows                  17 hrs 48 mins      ████████████████████████ |   99.22% 
+Linux                    8 mins                                       |   0.78%
 
 ```
 
@@ -104,7 +104,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 20:14:14 UTC
+ Last Updated on 14/07/2022 20:13:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
