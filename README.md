@@ -68,22 +68,22 @@ Sunday       74 commits     ████                     |   15.91%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 17 mins      ████████████████████     |   79.64% 
-Java                     1 hr 56 mins        ██                       |   10.84% 
-Markdown                 24 mins                                      |   2.29% 
-YAML                     24 mins                                      |   2.25% 
-Python                   17 mins                                      |   1.66%
+Other                    6 hrs 49 mins       ████████████████████     |   81.82% 
+Java                     49 mins             ██                       |   9.9% 
+Markdown                 23 mins             █                        |   4.71% 
+YAML                     14 mins                                      |   2.88% 
+JSON                     1 min                                        |   0.34%
 
 🔥 Editors: 
-Browser                  11 hrs 17 mins      ███████████████          |   62.93% 
-IntelliJ                 2 hrs 57 mins       ████                     |   16.51% 
-Powerpoint               2 hrs 44 mins       ███                      |   15.26% 
-VS Code                  19 mins                                      |   1.79% 
-PyCharm                  10 mins                                      |   1.0%
+Browser                  5 hrs 6 mins        ███████████████          |   61.16% 
+Powerpoint               1 hr 33 mins        ████                     |   18.68% 
+IntelliJ                 1 hr 19 mins        ████                     |   15.94% 
+VS Code                  11 mins                                      |   2.23% 
+Word                     9 mins                                       |   1.91%
 
 💻 Operating System: 
-Windows                  17 hrs 48 mins      ████████████████████████ |   99.22% 
-Linux                    8 mins                                       |   0.78%
+Windows                  8 hrs 15 mins       ████████████████████████ |   99.07% 
+Linux                    4 mins                                       |   0.93%
 
 ```
 
@@ -104,7 +104,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 20:13:15 UTC
+ Last Updated on 15/07/2022 20:13:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
