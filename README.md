@@ -68,22 +68,17 @@ Sunday       74 commits     ████                     |   15.91%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 49 mins       ████████████████████     |   81.82% 
-Java                     49 mins             ██                       |   9.9% 
-Markdown                 23 mins             █                        |   4.71% 
-YAML                     14 mins                                      |   2.88% 
-JSON                     1 min                                        |   0.34%
+Other                    30 mins             ███████████              |   44.04% 
+Java                     23 mins             ████████                 |   34.8% 
+Markdown                 14 mins             █████                    |   21.16%
 
 🔥 Editors: 
-Browser                  5 hrs 6 mins        ███████████████          |   61.16% 
-Powerpoint               1 hr 33 mins        ████                     |   18.68% 
-IntelliJ                 1 hr 19 mins        ████                     |   15.94% 
-VS Code                  11 mins                                      |   2.23% 
-Word                     9 mins                                       |   1.91%
+IntelliJ                 32 mins             ███████████              |   46.61% 
+Powerpoint               30 mins             ███████████              |   44.04% 
+VS Code                  6 mins              ██                       |   9.36%
 
 💻 Operating System: 
-Windows                  8 hrs 15 mins       ████████████████████████ |   99.07% 
-Linux                    4 mins                                       |   0.93%
+Windows                  1 hr 8 mins         █████████████████████████|   100.0%
 
 ```
 
@@ -104,7 +99,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/07/2022 20:13:42 UTC
+ Last Updated on 16/07/2022 20:13:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
