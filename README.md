@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232%20Thousand%20lines%20of%20code-blue)
 
@@ -42,22 +42,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    47 commits     ██                       |   10.11% 
-🌆 Daytime    159 commits    ████████                 |   34.19% 
-🌃 Evening    191 commits    ██████████               |   41.08% 
-🌙 Night      68 commits     ███                      |   14.62%
+🌞 Morning    47 commits     ██                       |   10.15% 
+🌆 Daytime    159 commits    ████████                 |   34.34% 
+🌃 Evening    191 commits    ██████████               |   41.25% 
+🌙 Night      66 commits     ███                      |   14.25%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       90 commits     ████                     |   19.35% 
-Tuesday      60 commits     ███                      |   12.9% 
-Wednesday    59 commits     ███                      |   12.69% 
-Thursday     54 commits     ███                      |   11.61% 
-Friday       68 commits     ███                      |   14.62% 
-Saturday     60 commits     ███                      |   12.9% 
-Sunday       74 commits     ████                     |   15.91%
+Monday       90 commits     ████                     |   19.44% 
+Tuesday      60 commits     ███                      |   12.96% 
+Wednesday    59 commits     ███                      |   12.74% 
+Thursday     54 commits     ███                      |   11.66% 
+Friday       68 commits     ███                      |   14.69% 
+Saturday     60 commits     ███                      |   12.96% 
+Sunday       72 commits     ████                     |   15.55%
 
 ```
 
@@ -68,17 +68,17 @@ Sunday       74 commits     ████                     |   15.91%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 mins             ███████████              |   45.45% 
-Java                     23 mins             █████████                |   35.77% 
-Markdown                 12 mins             ████                     |   18.78%
+Other                    18 mins             ██████████               |   42.26% 
+Java                     17 mins             ██████████               |   39.52% 
+Markdown                 8 mins              ████                     |   18.22%
 
 🔥 Editors: 
-Powerpoint               30 mins             ███████████              |   45.45% 
-IntelliJ                 29 mins             ███████████              |   44.89% 
-VS Code                  6 mins              ██                       |   9.66%
+IntelliJ                 19 mins             ██████████               |   43.41% 
+Powerpoint               18 mins             ██████████               |   42.26% 
+VS Code                  6 mins              ███                      |   14.33%
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████|   100.0%
+Windows                  44 mins             █████████████████████████|   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 20:10:37 UTC
+ Last Updated on 18/07/2022 20:11:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
