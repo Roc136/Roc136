@@ -68,17 +68,16 @@ Sunday       72 commits     ████                     |   15.55%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 mins             ██████████               |   42.26% 
-Java                     17 mins             ██████████               |   39.52% 
-Markdown                 8 mins              ████                     |   18.22%
+Other                    18 mins             █████████████████████    |   86.88% 
+Java                     2 mins              ███                      |   13.12% 
+Markdown                 0 secs                                       |   0.0%
 
 🔥 Editors: 
-IntelliJ                 19 mins             ██████████               |   43.41% 
-Powerpoint               18 mins             ██████████               |   42.26% 
-VS Code                  6 mins              ███                      |   14.33%
+Powerpoint               18 mins             █████████████████████    |   86.88% 
+IntelliJ                 2 mins              ███                      |   13.12%
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████|   100.0%
+Windows                  21 mins             █████████████████████████|   100.0%
 
 ```
 
@@ -99,7 +98,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2022 20:12:15 UTC
+ Last Updated on 21/07/2022 20:11:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
