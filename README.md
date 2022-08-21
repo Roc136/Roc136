@@ -72,7 +72,8 @@ Other                    33 mins             ███████████�
 CSV                      10 mins             ██████                   |   24.12%
 
 🔥 Editors: 
-Excel                    44 mins             █████████████████████████|   100.0%
+Excel                    44 mins             █████████████████████████|   100.0% 
+Powerpoint               0 secs                                       |   0.0%
 
 💻 Operating System: 
 Windows                  44 mins             █████████████████████████|   100.0%
@@ -96,7 +97,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 20:10:59 UTC
+ Last Updated on 21/08/2022 20:12:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
