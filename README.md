@@ -29,8 +29,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 315 Contributions in the Year 2022
- > 
 > 📦 416.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -68,12 +66,12 @@ Sunday       67 commits     ████                     |   16.63%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    33 mins             ███████████████████      |   75.88% 
-CSV                      10 mins             ██████                   |   24.12%
+Other                    33 mins             ███████████████████      |   76.04% 
+CSV                      10 mins             ██████                   |   23.96%
 
 🔥 Editors: 
-Excel                    44 mins             █████████████████████████|   100.0% 
-Powerpoint               0 secs                                       |   0.0%
+Excel                    44 mins             ████████████████████████ |   99.37% 
+Powerpoint               0 secs                                       |   0.63%
 
 💻 Operating System: 
 Windows                  44 mins             █████████████████████████|   100.0%
@@ -97,7 +95,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 20:12:26 UTC
+ Last Updated on 22/08/2022 20:12:28 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
