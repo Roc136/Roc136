@@ -23,41 +23,41 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C177%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 315 Contributions in the Year 2022
+> 🏆 333 Contributions in the Year 2022
  > 
-> 📦 416.5 kB Used in GitHub's Storage 
+> 📦 416.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     ██                       |   8.19% 
-🌆 Daytime    125 commits    ███████                  |   31.02% 
-🌃 Evening    183 commits    ███████████              |   45.41% 
-🌙 Night      62 commits     ███                      |   15.38%
+🌞 Morning    33 commits     ██                       |   7.86% 
+🌆 Daytime    127 commits    ███████                  |   30.24% 
+🌃 Evening    189 commits    ███████████              |   45.0% 
+🌙 Night      71 commits     ████                     |   16.9%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       67 commits     ████                     |   16.63% 
-Tuesday      51 commits     ███                      |   12.66% 
-Wednesday    55 commits     ███                      |   13.65% 
-Thursday     51 commits     ███                      |   12.66% 
-Friday       60 commits     ███                      |   14.89% 
-Saturday     52 commits     ███                      |   12.9% 
-Sunday       67 commits     ████                     |   16.63%
+Monday       72 commits     ████                     |   17.14% 
+Tuesday      52 commits     ███                      |   12.38% 
+Wednesday    61 commits     ███                      |   14.52% 
+Thursday     52 commits     ███                      |   12.38% 
+Friday       60 commits     ███                      |   14.29% 
+Saturday     56 commits     ███                      |   13.33% 
+Sunday       67 commits     ████                     |   15.95%
 
 ```
 
@@ -81,11 +81,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████              |   46.88% 
-C++                      4 repos             ███                      |   12.5% 
-Java                     4 repos             ███                      |   12.5% 
-HTML                     2 repos             █                        |   6.25% 
-JavaScript               2 repos             █                        |   6.25%
+Python                   16 repos            ████████████             |   48.48% 
+C++                      4 repos             ███                      |   12.12% 
+Java                     4 repos             ███                      |   12.12% 
+HTML                     2 repos             █                        |   6.06% 
+JavaScript               2 repos             █                        |   6.06%
 
 ```
 
@@ -95,7 +95,7 @@ JavaScript               2 repos             █                        |   6.25
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2022 20:12:04 UTC
+ Last Updated on 02/09/2022 20:12:03 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
