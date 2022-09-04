@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C178%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -68,16 +68,18 @@ Sunday       67 commits     ████                     |   15.95%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    44 mins             ███████████████████████  |   91.69% 
-Python                   3 mins              ██                       |   7.6% 
-Text                     0 secs                                       |   0.71%
+Python                   1 hr 12 mins        ███████████████          |   59.61% 
+Other                    44 mins             █████████                |   36.28% 
+Markdown                 2 mins                                       |   1.87% 
+YAML                     1 min                                        |   1.2% 
+Text                     1 min                                        |   0.99%
 
 🔥 Editors: 
-Word                     44 mins             ███████████████████████  |   91.69% 
-PyCharm                  3 mins              ██                       |   8.31%
+PyCharm                  1 hr 17 mins        ████████████████         |   63.72% 
+Word                     44 mins             █████████                |   36.28%
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████|   100.0%
+Windows                  2 hrs 1 min         █████████████████████████|   100.0%
 
 ```
 
@@ -98,7 +100,7 @@ JavaScript               2 repos             █                        |   6.06
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 20:12:14 UTC
+ Last Updated on 04/09/2022 20:13:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
