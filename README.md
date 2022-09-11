@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -68,17 +68,15 @@ Sunday       67 commits     ████                     |   15.95%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 27 mins        ███████████████████████  |   94.93% 
-Markdown                 2 mins                                       |   2.48% 
-YAML                     1 min                                        |   1.58% 
-Text                     0 secs                                       |   0.94% 
-GitIgnore file           0 secs                                       |   0.07%
+Python                   18 mins             ███████████████████      |   79.05% 
+Other                    4 mins              █████                    |   20.95%
 
 🔥 Editors: 
-PyCharm                  1 hr 31 mins        █████████████████████████|   100.0%
+PyCharm                  18 mins             ███████████████████      |   79.05% 
+Word                     4 mins              █████                    |   20.95%
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████|   100.0%
+Windows                  23 mins             █████████████████████████|   100.0%
 
 ```
 
@@ -99,7 +97,7 @@ JavaScript               2 repos             █                        |   6.06
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/09/2022 20:14:39 UTC
+ Last Updated on 11/09/2022 20:14:56 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
