@@ -42,22 +42,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    33 commits     ██                       |   7.86% 
-🌆 Daytime    127 commits    ███████                  |   30.24% 
-🌃 Evening    189 commits    ███████████              |   45.0% 
-🌙 Night      71 commits     ████                     |   16.9%
+🌞 Morning    32 commits     ██                       |   7.82% 
+🌆 Daytime    126 commits    ███████                  |   30.81% 
+🌃 Evening    180 commits    ███████████              |   44.01% 
+🌙 Night      71 commits     ████                     |   17.36%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       72 commits     ████                     |   17.14% 
-Tuesday      52 commits     ███                      |   12.38% 
-Wednesday    61 commits     ███                      |   14.52% 
-Thursday     52 commits     ███                      |   12.38% 
-Friday       60 commits     ███                      |   14.29% 
-Saturday     56 commits     ███                      |   13.33% 
-Sunday       67 commits     ████                     |   15.95%
+Monday       72 commits     ████                     |   17.6% 
+Tuesday      52 commits     ███                      |   12.71% 
+Wednesday    61 commits     ███                      |   14.91% 
+Thursday     52 commits     ███                      |   12.71% 
+Friday       60 commits     ███                      |   14.67% 
+Saturday     48 commits     ███                      |   11.74% 
+Sunday       64 commits     ████                     |   15.65%
 
 ```
 
@@ -68,15 +68,13 @@ Sunday       67 commits     ████                     |   15.95%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   18 mins             ███████████████████      |   79.05% 
-Other                    4 mins              █████                    |   20.95%
+Other                    9 mins              █████████████████████████|   100.0%
 
 🔥 Editors: 
-PyCharm                  18 mins             ███████████████████      |   79.05% 
-Word                     4 mins              █████                    |   20.95%
+Word                     9 mins              █████████████████████████|   100.0%
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████|   100.0%
+Windows                  9 mins              █████████████████████████|   100.0%
 
 ```
 
@@ -97,7 +95,7 @@ JavaScript               2 repos             █                        |   6.06
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 20:12:30 UTC
+ Last Updated on 13/09/2022 20:13:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
