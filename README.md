@@ -21,9 +21,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232%20Thousand%20lines%20of%20code-blue)
 
@@ -95,7 +95,7 @@ JavaScript               2 repos             █                        |   6.06
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 20:13:47 UTC
+ Last Updated on 14/09/2022 20:13:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
