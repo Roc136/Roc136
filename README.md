@@ -21,7 +21,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,22 +42,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    32 commits     ██                       |   7.82% 
-🌆 Daytime    126 commits    ███████                  |   30.81% 
-🌃 Evening    180 commits    ███████████              |   44.01% 
-🌙 Night      71 commits     ████                     |   17.36%
+🌞 Morning    32 commits     ██                       |   7.84% 
+🌆 Daytime    125 commits    ███████                  |   30.64% 
+🌃 Evening    180 commits    ███████████              |   44.12% 
+🌙 Night      71 commits     ████                     |   17.4%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       72 commits     ████                     |   17.6% 
-Tuesday      52 commits     ███                      |   12.71% 
-Wednesday    61 commits     ███                      |   14.91% 
-Thursday     52 commits     ███                      |   12.71% 
-Friday       60 commits     ███                      |   14.67% 
-Saturday     48 commits     ███                      |   11.74% 
-Sunday       64 commits     ████                     |   15.65%
+Monday       72 commits     ████                     |   17.65% 
+Tuesday      52 commits     ███                      |   12.75% 
+Wednesday    61 commits     ███                      |   14.95% 
+Thursday     52 commits     ███                      |   12.75% 
+Friday       60 commits     ███                      |   14.71% 
+Saturday     47 commits     ███                      |   11.52% 
+Sunday       64 commits     ████                     |   15.69%
 
 ```
 
@@ -68,17 +68,17 @@ Sunday       64 commits     ████                     |   15.65%
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 54 mins       ████████████████████████ |   96.1% 
-Python                   11 mins             █                        |   3.73% 
-INI                      0 secs                                       |   0.16%
+Other                    5 hrs 32 mins       ████████████████████████ |   96.54% 
+Python                   11 mins                                      |   3.32% 
+INI                      0 secs                                       |   0.14%
 
 🔥 Editors: 
-Powerpoint               4 hrs 11 mins       ████████████████████     |   82.07% 
-Word                     42 mins             ███                      |   14.03% 
-PyCharm                  11 mins             █                        |   3.9%
+Powerpoint               4 hrs 25 mins       ███████████████████      |   77.0% 
+Word                     1 hr 7 mins         █████                    |   19.54% 
+PyCharm                  11 mins                                      |   3.46%
 
 💻 Operating System: 
-Windows                  5 hrs 5 mins        █████████████████████████|   100.0%
+Windows                  5 hrs 44 mins       █████████████████████████|   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ JavaScript               2 repos             █                        |   6.06
 ![Chart not found](https://raw.githubusercontent.com/Roc136/Roc136/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 20:11:38 UTC
+ Last Updated on 25/09/2022 20:12:05 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Roc136/waka-readme-stats)**
