@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
     steps:
-      - uses: Roc136/waka-readme-stats@7acc1095244e2d38fc4a19197bfddc62e75a3352 #PLEASE USE MASTER BRANCH
+#       - uses: Roc136/waka-readme-stats@7acc1095244e2d38fc4a19197bfddc62e75a3352 #PLEASE USE MASTER BRANCH
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,5 +23,5 @@ jobs:
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "True"
           IGNORED_REPOS: "Blog,icspa_2020,MaterialFiles,Roc136.github.io,Web2022,phaser3-rpg-test"
-#           SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 2
           COMMIT_BY_ME: "True"
