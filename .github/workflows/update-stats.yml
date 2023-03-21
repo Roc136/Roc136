@@ -1,6 +1,7 @@
 name: Waka Readme
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
@@ -21,5 +22,5 @@ jobs:
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "True"
           IGNORED_REPOS: "Blog,icspa_2020,MaterialFiles,Roc136.github.io,Web2022,phaser3-rpg-test"
-          SYMBOL_VERSION: "VERSION_2"
-          
+          SYMBOL_VERSION: 2
+          COMMIT_BY_ME: "True"
